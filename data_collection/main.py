@@ -4,7 +4,6 @@ from data_collection.resolution_collector import collect_central_bank_resolution
 from data_collection.content_validator import validate_resolution_content
 
 def configure_logging() -> None:
-    """Configure logging settings for the application."""
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -15,7 +14,6 @@ def configure_logging() -> None:
     )
 
 def initialize_directories() -> tuple[Path, Path]:
-    """Create and return necessary directory paths for data storage."""
     data_dir = Path("data")
     raw_data_dir = data_dir / "raw"
     processed_data_dir = data_dir / "processed"
@@ -26,7 +24,7 @@ def initialize_directories() -> tuple[Path, Path]:
     return raw_data_dir, processed_data_dir
 
 def main() -> None:
-    """Main execution function for the Central Bank resolution collection process."""
+
     configure_logging()
     logger = logging.getLogger(__name__)
     
@@ -35,11 +33,9 @@ def main() -> None:
         
         raw_data_dir, processed_data_dir = initialize_directories()
         
-        # Collect and process resolutions
         collect_central_bank_resolutions(raw_data_dir)
         validation_results = validate_resolution_content(processed_data_dir)
         
-        # Process validation results
         for file_result in validation_results.values():
             if not file_result.is_valid:
                 logger.warning(
