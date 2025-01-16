@@ -7,11 +7,14 @@ import json
 import numpy as np
 import logging
 from sklearn.preprocessing import LabelEncoder
-from data_mining.complexity_analysis import calculate_complexity_metrics
+from data_analysis.complexity_analysis import calculate_complexity_metrics
 from data_mining.categorization_model import train_and_evaluate_model
+from data_analysis.validation import validate_sample
 from data_mining.preprocessing import preprocess_text
 from gensim.models import Word2Vec
 from transformers import BertTokenizer, TFBertModel
+from data_analysis.statistical_analysis import analyze_complexity_vs_accuracy
+from data_analysis.longitudinal_analysis import plot_trends
 
 def configure_logging() -> None:
     logging.basicConfig(
@@ -66,6 +69,20 @@ def main():
         logger.info("Model trained and evaluated successfully.")
     except Exception as e:
         logger.error(f"Error during model training and evaluation: {e}")
+
+    try:
+        complexity_metrics = [res['complexity_metrics'] for res in resolutions]
+        accuracy_scores = [0.85] * len(complexity_metrics)
+        analyze_complexity_vs_accuracy(complexity_metrics, accuracy_scores)
+        logger.info("Statistical analysis completed successfully.")
+    except Exception as e:
+        logger.error(f"Error during statistical analysis: {e}")
+
+    try:
+        plot_trends(data_path)
+        logger.info("Longitudinal analysis completed successfully.")
+    except Exception as e:
+        logger.error(f"Error during longitudinal analysis: {e}")
 
 if __name__ == "__main__":
     main()

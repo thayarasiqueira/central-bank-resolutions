@@ -2,7 +2,7 @@ import logging
 from sklearn.model_selection import train_test_split, StratifiedKFold
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, confusion_matrix
 from imblearn.over_sampling import SMOTE
 from sklearn.linear_model import Lasso
 from sklearn.pipeline import Pipeline
@@ -12,6 +12,9 @@ import xgboost as xgb
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from keras.optimizers import Adam
+import matplotlib.pyplot as plt
+import seaborn as sns
+from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
@@ -47,6 +50,16 @@ def train_and_evaluate_model(X, y, word2vec_model, bert_model):
                 logger.info(f"Results for {model_name}:")
                 logger.info(classification_report(y_test, y_pred))
 
+                cm = confusion_matrix(y_test, y_pred)
+                plt.figure(figsize=(10, 7))
+                sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
+                plt.title(f'Confusion Matrix for {model_name}')
+                plt.xlabel('Predicted')
+                plt.ylabel('Actual')
+                Path('reports').mkdir(parents=True, exist_ok=True)
+                plt.savefig(f'reports/confusion_matrix_{model_name}.png')
+                plt.close()
+
         keras_model = Sequential([
             Dense(128, activation='relu', input_shape=(X.shape[1],)),
             Dense(64, activation='relu'),
@@ -60,6 +73,15 @@ def train_and_evaluate_model(X, y, word2vec_model, bert_model):
         y_pred_keras = (keras_model.predict(X_test) > 0.5).astype("int32")
         logger.info("Results for Keras Model:")
         logger.info(classification_report(y_test, y_pred_keras))
+
+        cm_keras = confusion_matrix(y_test, y_pred_keras)
+        plt.figure(figsize=(10, 7))
+        sns.heatmap(cm_keras, annot=True, fmt='d', cmap='Blues')
+        plt.title('Confusion Matrix for Keras Model')
+        plt.xlabel('Predicted')
+        plt.ylabel('Actual')
+        plt.savefig('reports/confusion_matrix_keras.png')
+        plt.close()
 
     except Exception as e:
         logger.error(f"Error during model training and evaluation: {e}")

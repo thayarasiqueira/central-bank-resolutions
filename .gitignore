@@ -1,18 +1,5 @@
-# Python
 *.pyc
 __pycache__/
-
-# Virtual environments
 venv/
 env/
-
-# Logs
-*.log
-
-# Local configuration
-.env
-config.json
-
-# IDEs
 .vscode/
-.idea/
