@@ -7,6 +7,7 @@ import json
 import numpy as np
 import logging
 from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import accuracy_score
 from data_analysis.complexity_analysis import calculate_complexity_metrics
 from data_mining.categorization_model import train_and_evaluate_model
 from data_analysis.validation import validate_sample
@@ -25,6 +26,9 @@ def configure_logging() -> None:
             logging.StreamHandler()
         ]
     )
+
+def calculate_accuracy_scores(y_true, y_pred):
+    return accuracy_score(y_true, y_pred)
 
 def main():
     configure_logging()
@@ -65,14 +69,19 @@ def main():
     y_encoded = label_encoder.fit_transform(y)
 
     try:
-        train_and_evaluate_model(X, y_encoded, word2vec_model, bert_model)
+        y_pred = train_and_evaluate_model(X, y_encoded, word2vec_model, bert_model)
         logger.info("Model trained and evaluated successfully.")
     except Exception as e:
         logger.error(f"Error during model training and evaluation: {e}")
+        return
 
     try:
         complexity_metrics = [res['complexity_metrics'] for res in resolutions]
-        accuracy_scores = [0.85] * len(complexity_metrics)
+        if len(y_pred) != len(y_encoded):
+            logger.error("Mismatch in the number of predictions and true labels.")
+            return
+
+        accuracy_scores = calculate_accuracy_scores(y_encoded, y_pred)
         analyze_complexity_vs_accuracy(complexity_metrics, accuracy_scores)
         logger.info("Statistical analysis completed successfully.")
     except Exception as e:

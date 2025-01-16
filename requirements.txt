@@ -9,6 +9,7 @@ black==24.1.1
 flake8==7.0.0
 mypy==1.8.0
 
+# Natural Language Processing
 nltk==3.8.1
 spacy==3.5.0
 scikit-learn==1.2.2
@@ -21,3 +22,10 @@ xgboost==1.7.6
 tensorflow==2.11.0
 keras==2.11.0
 protobuf==3.20.3
+
+# Data Analysis
+pandas==2.1.1
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.21.0
+dash==2.10.0

@@ -1,456 +1,456 @@
-2025-01-16 08:31:27,017 - __main__ - INFO - Resolutions data loaded successfully.
-2025-01-16 08:31:27,018 - gensim.utils - INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.025>', 'datetime': '2025-01-16T08:31:27.018446', 'gensim': '4.3.3', 'python': '3.10.12 (main, Nov  6 2024, 20:22:13) [GCC 11.4.0]', 'platform': 'Linux-6.8.0-51-generic-x86_64-with-glibc2.35', 'event': 'created'}
-2025-01-16 08:31:33,732 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:37,194 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:37,442 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:37,556 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:37,775 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:41,129 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:41,533 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:41,700 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:46,625 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:47,408 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:47,572 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:49,257 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:50,220 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:50,733 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:52,045 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:52,177 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:55,008 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:55,202 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:57,896 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:31:59,954 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:00,498 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:02,741 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:03,205 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:03,601 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:06,797 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:07,409 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:08,818 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:09,084 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:09,315 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:09,848 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:11,752 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:12,777 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:13,736 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:17,041 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:17,219 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:17,310 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:17,534 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:17,691 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:17,837 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:18,504 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:18,793 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:19,145 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:20,289 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:22,466 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:22,788 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:23,634 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:28,131 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:28,253 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:28,389 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:31,424 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:31,874 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:32,289 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:35,378 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:35,932 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:36,206 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:41,024 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:42,834 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:43,061 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:43,316 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:43,852 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:44,398 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:45,566 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:47,606 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:48,224 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:48,483 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:48,655 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:49,191 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:49,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:49,657 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:49,912 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:50,123 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:51,295 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:52,553 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:32:54,251 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:03,193 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:03,538 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:03,951 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:04,136 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:04,361 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:04,643 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:07,949 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:09,581 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:10,251 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:11,368 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:13,160 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:13,508 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:14,053 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:16,729 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:17,086 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:17,260 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:17,934 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:20,053 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:20,225 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:20,306 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:22,015 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:29,754 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:30,111 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:30,424 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:30,739 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:31,028 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:31,958 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:33,066 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:33,367 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:35,004 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:35,268 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:36,301 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:33:37,063 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:10,758 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:13,083 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:18,312 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:20,242 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:21,485 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:21,986 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:22,241 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:23,000 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:24,639 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:25,670 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:26,720 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:27,017 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:27,937 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:28,166 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:28,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:28,684 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:28,952 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:29,554 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:30,530 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:31,118 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:31,252 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:31,436 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:34,272 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:34,862 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:39,592 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:40,169 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:45,296 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:47,108 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:49,165 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:49,326 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:49,524 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:49,687 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:55,221 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:58,486 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:58,848 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:34:59,103 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:00,161 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:21,830 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:23,962 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:24,427 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:24,558 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:24,714 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:24,798 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:24,866 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:25,060 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:25,172 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:25,246 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:25,549 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:25,763 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:25,857 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:26,597 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:26,650 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:26,726 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:26,844 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:27,607 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:27,920 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:29,513 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:29,820 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:30,047 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:30,223 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:30,749 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:30,967 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:31,050 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:31,932 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:32,666 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:32,705 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:32,761 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:32,929 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:33,114 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:33,267 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:33,297 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:33,385 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:33,424 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:33,655 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:33,905 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:35,772 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:39,745 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:40,459 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:40,542 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:40,582 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:40,888 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:40,939 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:41,157 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:41,228 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:41,330 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:41,491 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:41,593 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:41,760 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:41,905 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:42,080 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:42,139 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:42,476 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:42,548 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,131 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,233 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,320 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,437 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,467 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,569 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,615 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,781 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,836 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,960 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:43,997 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:44,187 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:44,531 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:44,783 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:44,861 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:44,899 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:45,212 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:45,249 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:45,294 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:51,867 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:51,900 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:51,979 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:52,020 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:52,283 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:52,317 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:52,420 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:52,551 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:52,644 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:52,688 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:56,531 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:56,649 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:56,800 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:56,848 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:56,881 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:56,922 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:56,952 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:57,260 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:57,341 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:57,661 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:57,779 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:57,971 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:58,390 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:58,451 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:58,512 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:58,604 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:58,802 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:35:59,088 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:01,091 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:03,103 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:03,636 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:04,796 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:04,995 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:05,084 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:06,773 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:06,950 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:07,037 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:07,069 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:07,124 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:07,627 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:07,691 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,279 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,327 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,437 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,478 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,524 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,589 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,705 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,763 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:08,916 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:09,101 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:09,190 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:10,064 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:10,137 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:10,486 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:10,829 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:11,029 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:11,403 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:12,507 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:12,695 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:12,809 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:13,569 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:13,793 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:13,885 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:14,700 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:14,755 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:14,865 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:14,975 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:15,033 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:15,149 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:15,178 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:15,258 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:15,510 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:15,642 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:16,145 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:16,401 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:16,453 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:16,480 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:16,774 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:18,010 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:18,084 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:18,149 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:19,059 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:19,225 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:19,834 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:20,179 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:20,327 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:20,496 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:20,534 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:20,677 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:20,869 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:20,964 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:21,681 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:21,784 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:22,197 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:22,747 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:22,785 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:22,861 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:24,290 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:26,025 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:26,179 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:26,330 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:26,432 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:26,644 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:26,768 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:27,067 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:27,154 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:27,755 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:27,804 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:28,284 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:28,390 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:28,617 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:28,715 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:29,244 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:29,279 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:29,318 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:29,411 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:29,610 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:30,181 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:31,408 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:31,651 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:31,781 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:31,931 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:31,976 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:32,790 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:32,962 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:33,010 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:33,428 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:33,462 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:33,635 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:33,673 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:33,775 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:34,080 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:34,579 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:34,621 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:34,689 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:34,981 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:35,172 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:35,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:36,849 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:37,148 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:37,217 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:37,481 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:37,615 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:38,316 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:38,346 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:38,475 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:38,585 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:39,014 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:39,607 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:39,732 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:39,774 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:40,057 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:40,531 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:40,811 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:40,891 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:41,565 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:41,646 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:42,038 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:42,812 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:43,057 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:43,122 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:43,517 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:43,810 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:43,849 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,031 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,090 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,238 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,290 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,345 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,382 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,506 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,717 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,800 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:44,841 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:46,662 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:46,721 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:46,792 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:47,113 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:48,751 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:48,804 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:49,140 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:49,897 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:49,923 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,050 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,169 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,262 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,375 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,406 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,473 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,529 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,586 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,746 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,798 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:50,895 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:51,734 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:51,983 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:52,857 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:53,169 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:53,593 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:54,173 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:54,543 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:54,576 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:54,617 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:54,745 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,064 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,127 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,197 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,238 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,417 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,577 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,637 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:55,695 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:56,028 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:56,100 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:56,835 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:57,483 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:57,530 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:57,603 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:57,652 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:57,867 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:57,961 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:58,143 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:58,447 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:58,911 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:59,045 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:36:59,114 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:37:00,178 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:37:12,787 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
-2025-01-16 08:37:12,809 - data_mining.categorization_model - INFO - Data resampled using SMOTE.
-2025-01-16 08:37:12,997 - data_mining.categorization_model - INFO - Results for RandomForest:
-2025-01-16 08:37:13,007 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:43:34,867 - __main__ - INFO - Resolutions data loaded successfully.
+2025-01-16 09:43:34,869 - gensim.utils - INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.025>', 'datetime': '2025-01-16T09:43:34.869189', 'gensim': '4.3.3', 'python': '3.10.12 (main, Nov  6 2024, 20:22:13) [GCC 11.4.0]', 'platform': 'Linux-6.8.0-51-generic-x86_64-with-glibc2.35', 'event': 'created'}
+2025-01-16 09:43:40,807 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:43,864 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:44,095 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:44,194 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:44,397 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:47,880 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:48,352 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:48,514 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:54,093 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:54,858 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:54,982 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:56,594 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:57,469 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:57,959 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:59,082 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:43:59,207 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:02,179 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:02,385 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:05,230 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:06,647 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:07,081 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:09,114 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:09,586 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:10,038 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:12,799 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:13,314 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:14,437 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:14,702 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:14,969 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:15,508 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:17,045 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:17,963 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:18,881 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:22,489 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:22,657 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:22,764 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:23,035 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:23,258 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:23,490 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:24,412 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:24,696 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:25,048 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:25,990 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:28,102 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:28,504 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:29,514 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:33,460 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:33,566 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:33,697 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:36,088 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:36,509 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:37,048 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:39,873 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:40,391 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:40,661 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:43,962 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:45,189 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:45,356 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:45,585 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:46,104 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:46,575 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:47,639 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:49,559 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:50,031 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:50,222 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:50,386 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:50,824 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:51,056 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:51,213 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:51,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:51,704 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:52,884 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:54,080 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:44:55,877 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:05,796 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:06,097 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:06,567 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:06,767 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:06,973 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:07,266 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:10,468 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:12,103 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:12,800 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:13,817 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:15,504 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:15,890 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:16,478 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:19,378 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:19,763 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:19,948 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:20,670 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:22,994 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:23,157 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:23,250 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:25,192 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:33,244 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:33,620 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:33,943 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:34,273 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:34,536 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:35,418 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:36,351 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:36,715 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:38,181 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:38,386 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:39,119 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:45:39,938 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:18,526 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:20,998 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:26,503 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:28,298 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:29,263 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:29,695 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:29,941 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:30,742 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:32,649 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:33,586 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:34,497 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:34,647 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:35,428 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:35,668 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:36,019 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:36,284 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:36,576 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:37,165 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:37,997 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:38,462 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:38,576 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:38,738 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:41,243 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:41,734 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:46,602 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:47,172 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:52,035 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:53,909 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:55,838 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:55,990 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:56,221 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:46:56,400 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:02,896 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:06,348 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:06,725 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:07,003 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:08,073 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:37,844 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:43,674 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:44,926 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:45,305 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:45,681 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:45,906 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:46,079 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:46,506 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:46,749 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:46,915 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:47,619 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:48,142 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:48,380 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:50,335 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:50,459 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:50,592 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:50,887 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:52,461 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:53,225 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:56,959 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:57,188 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:57,322 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:57,484 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:58,504 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:59,199 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:47:59,397 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:01,633 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:03,154 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:03,252 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:03,382 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:03,741 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:04,191 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:04,551 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:04,625 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:04,879 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:04,991 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:05,600 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:06,252 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:10,424 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:19,535 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:21,534 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:21,786 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:21,897 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:22,819 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:22,982 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:23,722 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:23,935 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:24,233 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:24,702 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:24,973 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:25,389 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:25,789 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:26,271 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:26,432 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:27,385 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:27,596 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:29,415 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:29,705 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:29,959 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:30,309 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:30,392 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:30,701 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:30,826 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:31,311 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:31,467 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:31,808 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:31,910 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:32,439 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:33,453 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:34,368 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:34,873 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:35,057 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:36,099 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:36,215 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:36,347 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:54,956 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:55,057 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:55,278 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:55,400 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:56,187 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:56,292 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:56,619 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:56,976 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:57,227 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:48:57,336 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:08,362 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:08,685 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:09,137 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:09,270 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:09,381 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:09,517 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:09,610 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:10,526 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:10,768 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:11,693 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:12,040 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:12,582 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:13,821 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:14,030 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:14,225 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:14,543 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:15,124 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:16,195 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:22,580 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:28,519 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:30,176 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:33,565 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:34,079 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:34,333 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:39,772 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:40,499 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:40,753 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:40,848 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:41,000 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:42,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:42,631 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:44,319 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:44,462 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:44,817 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:44,968 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:45,157 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:45,410 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:45,792 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:45,952 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:46,417 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:46,955 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:47,217 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:49,768 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:49,979 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:50,994 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:51,932 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:52,484 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:53,976 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:57,296 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:57,842 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:49:58,183 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:00,399 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:01,162 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:01,424 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:03,868 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:04,024 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:04,344 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:04,720 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:04,890 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:05,226 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:05,317 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:05,563 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:06,212 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:06,422 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:07,907 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:08,672 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:08,816 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:08,910 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:09,783 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:13,305 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:13,517 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:13,713 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:16,405 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:16,881 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:18,629 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:19,639 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:20,080 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:20,529 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:20,639 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:21,085 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:21,652 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:21,929 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:23,983 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:24,349 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:25,536 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:27,206 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:27,323 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:27,552 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:31,852 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:37,130 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:37,894 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:38,411 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:38,703 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:39,320 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:39,718 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:40,566 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:40,781 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:42,161 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:42,296 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:43,559 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:43,869 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:44,518 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:44,830 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:46,420 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:46,522 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:46,647 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:46,902 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:47,536 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:49,163 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:52,733 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:53,367 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:53,774 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:54,198 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:54,388 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:56,965 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:57,518 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:57,664 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:58,881 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:58,973 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:59,477 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:59,596 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:50:59,897 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:00,736 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:02,353 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:02,495 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:02,762 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:03,841 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:04,386 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:05,149 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:08,640 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:09,311 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:09,492 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:10,362 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:10,794 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:12,573 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:12,665 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:13,085 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:13,404 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:14,663 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:16,464 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:16,883 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:17,009 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:17,786 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:19,126 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:19,919 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:20,131 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:22,107 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:22,373 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:23,466 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:25,672 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:26,308 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:26,495 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:27,616 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:28,522 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:28,628 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:29,151 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:29,342 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:29,794 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:29,953 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:30,108 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:30,218 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:30,569 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:31,180 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:31,423 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:31,543 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:37,104 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:37,280 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:37,492 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:38,743 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:43,638 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:43,807 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:44,866 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:46,829 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:46,902 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:47,243 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:47,563 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:47,846 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:48,074 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:48,169 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:48,360 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:48,520 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:48,686 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:49,117 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:49,269 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:49,543 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:51,767 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:52,477 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:55,130 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:55,985 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:57,186 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:58,680 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:59,879 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:51:59,975 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:00,079 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:00,543 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:01,416 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:01,593 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:01,792 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:01,915 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:02,441 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:02,876 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:03,043 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:03,197 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:04,162 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:04,392 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:06,485 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:08,300 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:08,423 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:08,622 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:08,762 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:09,238 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:09,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:10,048 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:10,882 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:12,196 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:12,561 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:12,759 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:15,817 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:50,341 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated successfully.
+2025-01-16 09:52:50,367 - data_mining.categorization_model - INFO - Data resampled using SMOTE.
+2025-01-16 09:52:50,816 - data_mining.categorization_model - INFO - Results for RandomForest:
+2025-01-16 09:52:50,834 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.51      0.47      0.49        45
            1       0.51      0.56      0.53        45
@@ -459,18 +459,18 @@
    macro avg       0.51      0.51      0.51        90
 weighted avg       0.51      0.51      0.51        90
 
-2025-01-16 08:37:13,800 - data_mining.categorization_model - INFO - Results for RandomForest:
-2025-01-16 08:37:13,805 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:52,665 - data_mining.categorization_model - INFO - Results for RandomForest:
+2025-01-16 09:52:52,684 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
-           0       0.41      0.40      0.40        45
-           1       0.41      0.42      0.42        45
+           0       0.44      0.44      0.44        45
+           1       0.44      0.44      0.44        45
 
-    accuracy                           0.41        90
-   macro avg       0.41      0.41      0.41        90
-weighted avg       0.41      0.41      0.41        90
+    accuracy                           0.44        90
+   macro avg       0.44      0.44      0.44        90
+weighted avg       0.44      0.44      0.44        90
 
-2025-01-16 08:37:14,155 - data_mining.categorization_model - INFO - Results for RandomForest:
-2025-01-16 08:37:14,160 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:53,760 - data_mining.categorization_model - INFO - Results for RandomForest:
+2025-01-16 09:52:53,776 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.52      0.51      0.52        45
            1       0.52      0.53      0.53        45
@@ -479,18 +479,18 @@ weighted avg       0.41      0.41      0.41        90
    macro avg       0.52      0.52      0.52        90
 weighted avg       0.52      0.52      0.52        90
 
-2025-01-16 08:37:14,525 - data_mining.categorization_model - INFO - Results for RandomForest:
-2025-01-16 08:37:14,529 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:54,826 - data_mining.categorization_model - INFO - Results for RandomForest:
+2025-01-16 09:52:54,844 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
-           0       0.50      0.58      0.54        45
-           1       0.49      0.41      0.44        44
+           0       0.51      0.58      0.54        45
+           1       0.50      0.43      0.46        44
 
-    accuracy                           0.49        89
-   macro avg       0.49      0.49      0.49        89
-weighted avg       0.49      0.49      0.49        89
+    accuracy                           0.51        89
+   macro avg       0.50      0.50      0.50        89
+weighted avg       0.50      0.51      0.50        89
 
-2025-01-16 08:37:14,874 - data_mining.categorization_model - INFO - Results for RandomForest:
-2025-01-16 08:37:14,879 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:55,946 - data_mining.categorization_model - INFO - Results for RandomForest:
+2025-01-16 09:52:55,963 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.49      0.39      0.43        44
            1       0.50      0.60      0.55        45
@@ -499,8 +499,8 @@ weighted avg       0.49      0.49      0.49        89
    macro avg       0.49      0.49      0.49        89
 weighted avg       0.49      0.49      0.49        89
 
-2025-01-16 08:37:15,378 - data_mining.categorization_model - INFO - Results for SVM:
-2025-01-16 08:37:15,385 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:56,893 - data_mining.categorization_model - INFO - Results for SVM:
+2025-01-16 09:52:56,919 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.51      0.84      0.63        45
            1       0.53      0.18      0.27        45
@@ -509,8 +509,8 @@ weighted avg       0.49      0.49      0.49        89
    macro avg       0.52      0.51      0.45        90
 weighted avg       0.52      0.51      0.45        90
 
-2025-01-16 08:37:15,596 - data_mining.categorization_model - INFO - Results for SVM:
-2025-01-16 08:37:15,603 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:57,483 - data_mining.categorization_model - INFO - Results for SVM:
+2025-01-16 09:52:57,504 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.27      0.07      0.11        45
            1       0.47      0.82      0.60        45
@@ -519,8 +519,8 @@ weighted avg       0.52      0.51      0.45        90
    macro avg       0.37      0.44      0.35        90
 weighted avg       0.37      0.44      0.35        90
 
-2025-01-16 08:37:15,805 - data_mining.categorization_model - INFO - Results for SVM:
-2025-01-16 08:37:15,813 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:58,135 - data_mining.categorization_model - INFO - Results for SVM:
+2025-01-16 09:52:58,155 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.54      0.67      0.59        45
            1       0.56      0.42      0.48        45
@@ -529,8 +529,8 @@ weighted avg       0.37      0.44      0.35        90
    macro avg       0.55      0.54      0.54        90
 weighted avg       0.55      0.54      0.54        90
 
-2025-01-16 08:37:16,034 - data_mining.categorization_model - INFO - Results for SVM:
-2025-01-16 08:37:16,040 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:58,760 - data_mining.categorization_model - INFO - Results for SVM:
+2025-01-16 09:52:58,782 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.50      0.98      0.66        45
            1       0.00      0.00      0.00        44
@@ -539,8 +539,8 @@ weighted avg       0.55      0.54      0.54        90
    macro avg       0.25      0.49      0.33        89
 weighted avg       0.25      0.49      0.33        89
 
-2025-01-16 08:37:16,293 - data_mining.categorization_model - INFO - Results for SVM:
-2025-01-16 08:37:16,304 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:52:59,405 - data_mining.categorization_model - INFO - Results for SVM:
+2025-01-16 09:52:59,425 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.52      0.82      0.64        44
            1       0.60      0.27      0.37        45
@@ -549,8 +549,8 @@ weighted avg       0.25      0.49      0.33        89
    macro avg       0.56      0.54      0.50        89
 weighted avg       0.56      0.54      0.50        89
 
-2025-01-16 08:37:16,751 - data_mining.categorization_model - INFO - Results for XGBoost:
-2025-01-16 08:37:16,762 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:53:00,336 - data_mining.categorization_model - INFO - Results for XGBoost:
+2025-01-16 09:53:00,358 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.48      0.56      0.52        45
            1       0.47      0.40      0.43        45
@@ -559,8 +559,8 @@ weighted avg       0.56      0.54      0.50        89
    macro avg       0.48      0.48      0.47        90
 weighted avg       0.48      0.48      0.47        90
 
-2025-01-16 08:37:17,080 - data_mining.categorization_model - INFO - Results for XGBoost:
-2025-01-16 08:37:17,089 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:53:01,297 - data_mining.categorization_model - INFO - Results for XGBoost:
+2025-01-16 09:53:01,319 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.44      0.38      0.40        45
            1       0.45      0.51      0.48        45
@@ -569,8 +569,8 @@ weighted avg       0.48      0.48      0.47        90
    macro avg       0.44      0.44      0.44        90
 weighted avg       0.44      0.44      0.44        90
 
-2025-01-16 08:37:17,392 - data_mining.categorization_model - INFO - Results for XGBoost:
-2025-01-16 08:37:17,403 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:53:02,155 - data_mining.categorization_model - INFO - Results for XGBoost:
+2025-01-16 09:53:02,178 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.50      0.47      0.48        45
            1       0.50      0.53      0.52        45
@@ -579,8 +579,8 @@ weighted avg       0.44      0.44      0.44        90
    macro avg       0.50      0.50      0.50        90
 weighted avg       0.50      0.50      0.50        90
 
-2025-01-16 08:37:17,691 - data_mining.categorization_model - INFO - Results for XGBoost:
-2025-01-16 08:37:17,699 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:53:03,009 - data_mining.categorization_model - INFO - Results for XGBoost:
+2025-01-16 09:53:03,035 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.47      0.58      0.52        45
            1       0.44      0.34      0.38        44
@@ -589,8 +589,8 @@ weighted avg       0.50      0.50      0.50        90
    macro avg       0.46      0.46      0.45        89
 weighted avg       0.46      0.46      0.45        89
 
-2025-01-16 08:37:17,985 - data_mining.categorization_model - INFO - Results for XGBoost:
-2025-01-16 08:37:17,993 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+2025-01-16 09:53:03,865 - data_mining.categorization_model - INFO - Results for XGBoost:
+2025-01-16 09:53:03,887 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
 
            0       0.50      0.45      0.48        44
            1       0.51      0.56      0.53        45
@@ -599,18 +599,8 @@ weighted avg       0.46      0.46      0.45        89
    macro avg       0.51      0.51      0.50        89
 weighted avg       0.51      0.51      0.50        89
 
-2025-01-16 08:37:19,941 - data_mining.categorization_model - INFO - Results for Keras Model:
-2025-01-16 08:37:19,949 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.00      0.00      0.00        45
-           1       0.50      1.00      0.67        45
-
-    accuracy                           0.50        90
-   macro avg       0.25      0.50      0.33        90
-weighted avg       0.25      0.50      0.33        90
-
-2025-01-16 08:37:20,136 - __main__ - INFO - Model trained and evaluated successfully.
-2025-01-16 08:37:20,995 - data_analysis.statistical_analysis - INFO - Statistical analysis completed successfully.
-2025-01-16 08:37:20,997 - __main__ - INFO - Statistical analysis completed successfully.
-2025-01-16 08:37:21,347 - data_analysis.longitudinal_analysis - INFO - Trends plotted successfully.
-2025-01-16 08:37:21,349 - __main__ - INFO - Longitudinal analysis completed successfully.
+2025-01-16 09:53:04,486 - __main__ - INFO - Model trained and evaluated successfully.
+2025-01-16 09:53:06,481 - data_analysis.statistical_analysis - INFO - Statistical analysis completed successfully.
+2025-01-16 09:53:06,490 - __main__ - INFO - Statistical analysis completed successfully.
+2025-01-16 09:53:07,375 - data_analysis.longitudinal_analysis - INFO - Trends plotted successfully.
+2025-01-16 09:53:07,380 - __main__ - INFO - Longitudinal analysis completed successfully.

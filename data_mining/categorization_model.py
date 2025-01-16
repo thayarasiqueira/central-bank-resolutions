@@ -1,17 +1,14 @@
 import logging
-from sklearn.model_selection import train_test_split, StratifiedKFold
+from sklearn.model_selection import StratifiedKFold
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
-from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 from imblearn.over_sampling import SMOTE
 from sklearn.linear_model import Lasso
 from sklearn.pipeline import Pipeline
 from sklearn.feature_selection import SelectFromModel
 import numpy as np
 import xgboost as xgb
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
-from keras.optimizers import Adam
 import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
@@ -35,18 +32,35 @@ def train_and_evaluate_model(X, y, word2vec_model, bert_model):
             'XGBoost': xgb.XGBClassifier()
         }
 
+        best_model = None
+        best_accuracy = 0
+        best_y_pred = None
+
         for model_name, model in models.items():
             pipeline = Pipeline([
                 ('feature_selection', selector),
                 ('classification', model)
             ])
             
+            all_y_pred = np.array([])  # Armazena todas as previsões
+            all_y_test = np.array([])  # Armazena todos os rótulos verdadeiros
+
             for train_index, test_index in skf.split(X_resampled, y_resampled):
                 X_train, X_test = X_resampled[train_index], X_resampled[test_index]
                 y_train, y_test = y_resampled[train_index], y_resampled[test_index]
                 
                 pipeline.fit(X_train, y_train)
                 y_pred = pipeline.predict(X_test)
+                accuracy = accuracy_score(y_test, y_pred)
+                
+                all_y_pred = np.concatenate([all_y_pred, y_pred])
+                all_y_test = np.concatenate([all_y_test, y_test])
+
+                if accuracy > best_accuracy:
+                    best_accuracy = accuracy
+                    best_model = model
+                    best_y_pred = y_pred
+
                 logger.info(f"Results for {model_name}:")
                 logger.info(classification_report(y_test, y_pred))
 
@@ -60,28 +74,9 @@ def train_and_evaluate_model(X, y, word2vec_model, bert_model):
                 plt.savefig(f'reports/confusion_matrix_{model_name}.png')
                 plt.close()
 
-        keras_model = Sequential([
-            Dense(128, activation='relu', input_shape=(X.shape[1],)),
-            Dense(64, activation='relu'),
-            Dense(1, activation='sigmoid')
-        ])
-
-        keras_model.compile(optimizer=Adam(), loss='binary_crossentropy', metrics=['accuracy'])
-
-        X_train, X_test, y_train, y_test = train_test_split(X_resampled, y_resampled, test_size=0.2, stratify=y_resampled)
-        keras_model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_test, y_test))
-        y_pred_keras = (keras_model.predict(X_test) > 0.5).astype("int32")
-        logger.info("Results for Keras Model:")
-        logger.info(classification_report(y_test, y_pred_keras))
-
-        cm_keras = confusion_matrix(y_test, y_pred_keras)
-        plt.figure(figsize=(10, 7))
-        sns.heatmap(cm_keras, annot=True, fmt='d', cmap='Blues')
-        plt.title('Confusion Matrix for Keras Model')
-        plt.xlabel('Predicted')
-        plt.ylabel('Actual')
-        plt.savefig('reports/confusion_matrix_keras.png')
-        plt.close()
+        # Retornar todas as previsões concatenadas
+        return all_y_pred
 
     except Exception as e:
         logger.error(f"Error during model training and evaluation: {e}")
+        return None

@@ -33,10 +33,3 @@ def analyze_complexity_vs_accuracy(complexity_metrics, accuracy_scores):
 
 if __name__ == "__main__":
     Path('reports').mkdir(parents=True, exist_ok=True)
-    
-    complexity_metrics = [
-        {'avg_sentence_length': 15, 'lexical_density': 0.5, 'flesch_index': 60, 'syntactic_depth': 3},
-        {'avg_sentence_length': 20, 'lexical_density': 0.6, 'flesch_index': 55, 'syntactic_depth': 4},
-    ]
-    accuracy_scores = [0.85, 0.80]
-    analyze_complexity_vs_accuracy(complexity_metrics, accuracy_scores) 
