@@ -27,10 +27,3 @@ Este projeto visa analisar o impacto da complexidade linguística nas resoluçõ
 - Python 3.8+
 - Bibliotecas: numpy, pandas, scipy, matplotlib, seaborn, sklearn, nltk, spacy, gensim, transformers, tensorflow, keras
 
-## Contribuição
-
-Contribuições são bem-vindas! Por favor, envie um pull request ou abra uma issue para discutir mudanças.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.
