@@ -42,8 +42,8 @@ def train_and_evaluate_model(X, y, word2vec_model, bert_model):
                 ('classification', model)
             ])
             
-            all_y_pred = np.array([])  # Armazena todas as previsões
-            all_y_test = np.array([])  # Armazena todos os rótulos verdadeiros
+            all_y_pred = np.array([])
+            all_y_test = np.array([])
 
             for train_index, test_index in skf.split(X_resampled, y_resampled):
                 X_train, X_test = X_resampled[train_index], X_resampled[test_index]
@@ -74,7 +74,6 @@ def train_and_evaluate_model(X, y, word2vec_model, bert_model):
                 plt.savefig(f'reports/confusion_matrix_{model_name}.png')
                 plt.close()
 
-        # Retornar todas as previsões concatenadas
         return all_y_pred
 
     except Exception as e:
