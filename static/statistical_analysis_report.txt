@@ -1,0 +1,7 @@
+Statistical Analysis Report
+                     avg_sentence_length  lexical_density  flesch_index  syntactic_depth  accuracy
+avg_sentence_length             1.000000        -0.419274     -0.999997         0.019231       NaN
+lexical_density                -0.419274         1.000000      0.420073        -0.088220       NaN
+flesch_index                   -0.999997         0.420073      1.000000        -0.019376       NaN
+syntactic_depth                 0.019231        -0.088220     -0.019376         1.000000       NaN
+accuracy                             NaN              NaN           NaN              NaN       NaN
