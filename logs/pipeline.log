@@ -1,0 +1,679 @@
+2025-04-22 11:48:19,681 - __main__ - INFO - === Starting Data Mining ===
+2025-04-22 11:48:20,049 - __main__ - INFO - Loaded 448 resolutions
+2025-04-22 11:48:20,931 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:25,054 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:25,343 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:25,467 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:25,707 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:30,052 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:30,630 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:30,812 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:37,310 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:38,214 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:38,351 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:40,680 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:41,809 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:42,404 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:43,855 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:44,000 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:47,703 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:47,943 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:51,578 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:53,500 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:53,982 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:56,634 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:57,313 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:48:57,925 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:01,333 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:02,004 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:03,551 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:03,862 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:04,188 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:04,919 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:07,005 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:08,111 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:09,142 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:13,372 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:13,563 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:13,678 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:13,973 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:14,192 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:14,387 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:15,259 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:15,625 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:16,106 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:17,608 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:20,273 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:20,719 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:21,659 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:26,296 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:26,430 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:26,580 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:29,966 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:30,495 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:31,094 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:34,641 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:35,241 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:35,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:39,394 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:40,871 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:41,062 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:41,327 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:41,988 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:42,620 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:44,083 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:46,665 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:47,267 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:47,502 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:47,714 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:48,347 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:48,697 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:48,961 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:49,325 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:49,673 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:51,320 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:52,865 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:49:54,910 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:06,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:06,769 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:07,274 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:07,517 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:07,754 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:08,232 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:12,421 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:14,375 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:15,347 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:16,655 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:18,811 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:19,292 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:20,156 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:23,629 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:24,044 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:24,260 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:25,255 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:28,187 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:28,377 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:28,476 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:30,797 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:38,876 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:39,397 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:39,753 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:40,151 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:40,429 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:41,542 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:42,808 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:43,225 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:45,078 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:45,297 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:46,163 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:50:47,217 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:29,633 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:32,439 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:38,656 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:40,569 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:41,790 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:42,356 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:42,684 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:43,705 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:45,734 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:46,937 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:48,089 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:48,218 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:49,012 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:49,318 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:49,813 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:50,188 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:50,579 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:51,414 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:52,771 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:53,490 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:53,660 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:53,891 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:57,297 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:51:57,883 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:03,340 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:04,138 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:10,041 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:12,038 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:14,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:14,710 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:14,969 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:15,198 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:22,256 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:26,583 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:27,058 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:27,411 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:52:29,076 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:00,580 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:07,013 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:08,625 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:09,014 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:09,478 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:09,751 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:10,028 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:10,729 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:11,026 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:11,241 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:12,118 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:13,171 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:13,498 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:15,840 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:15,964 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:16,113 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:16,454 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:18,509 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:19,598 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:23,957 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:24,244 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:24,407 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:24,608 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:25,531 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:26,073 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:26,321 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:29,093 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:31,000 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:31,113 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:31,276 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:31,741 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:32,284 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:32,789 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:32,885 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:33,226 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:33,380 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:34,297 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:35,190 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:41,234 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:51,887 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:54,207 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:54,473 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:54,603 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:55,688 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:55,873 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:56,623 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:56,899 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:57,301 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:57,872 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:58,239 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:58,940 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:53:59,524 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:00,181 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:00,413 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:01,813 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:02,070 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:04,489 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:04,863 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:05,210 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:05,689 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:05,814 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:06,232 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:06,430 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:07,165 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:07,392 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:08,007 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:08,172 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:08,955 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:10,449 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:11,415 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:11,676 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:11,823 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:13,122 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:13,261 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:13,440 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:33,167 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:33,259 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:33,510 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:33,646 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:34,668 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:34,816 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:35,221 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:35,702 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:36,064 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:36,220 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:48,941 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:49,287 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:49,774 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:49,941 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:50,107 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:50,252 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:50,352 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:51,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:51,896 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:53,151 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:53,610 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:54,375 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:56,052 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:56,271 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:56,497 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:56,877 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:57,765 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:54:59,108 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:06,039 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:12,761 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:14,668 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:18,658 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:19,370 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:19,679 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:25,172 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:25,834 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:26,110 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:26,219 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:26,399 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:28,158 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:28,372 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:30,796 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:30,973 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:31,359 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:31,511 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:31,681 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:31,929 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:32,420 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:32,649 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:33,326 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:34,080 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:34,464 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:38,237 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:38,483 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:39,737 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:40,888 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:41,599 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:43,031 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:46,876 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:47,639 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:48,120 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:51,185 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:52,191 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:52,550 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:55,781 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:55,968 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:56,354 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:56,931 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:57,168 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:57,658 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:57,778 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:58,112 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:58,989 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:55:59,298 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:01,389 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:02,182 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:02,374 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:02,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:03,629 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:08,367 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:08,627 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:08,849 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:12,229 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:12,910 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:15,269 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:16,443 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:16,896 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:17,464 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:17,623 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:18,224 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:19,049 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:19,402 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:21,815 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:22,161 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:23,763 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:25,615 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:25,733 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:25,955 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:31,268 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:37,135 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:37,630 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:38,119 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:38,447 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:39,268 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:39,773 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:41,024 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:41,328 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:42,853 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:43,006 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:44,665 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:45,061 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:45,997 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:46,448 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:48,586 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:48,702 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:48,847 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:49,175 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:49,942 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:52,341 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:56,607 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:57,459 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:57,965 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:58,585 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:56:58,768 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:02,056 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:02,697 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:02,862 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:04,325 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:04,422 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:04,980 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:05,129 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:05,467 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:06,622 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:08,933 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:09,086 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:09,334 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:10,411 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:11,026 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:11,904 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:16,087 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:16,890 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:17,126 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:18,109 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:18,676 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:21,116 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:21,218 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:21,607 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:21,982 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:23,841 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:25,990 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:26,371 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:26,511 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:27,475 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:29,466 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:30,613 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:30,885 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:33,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:33,774 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:34,853 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:37,309 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:38,096 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:38,289 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:39,840 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:40,938 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:41,060 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:41,690 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:41,911 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:42,488 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:42,676 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:42,866 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:43,009 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:43,470 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:44,434 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:44,790 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:44,961 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:51,381 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:51,584 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:51,825 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:53,026 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:58,949 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:57:59,140 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:00,573 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:02,504 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:02,575 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:02,920 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:03,292 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:03,601 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:03,906 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:04,032 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:04,302 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:04,538 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:04,751 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:05,287 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:05,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:05,954 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:09,247 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:10,158 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:13,372 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:14,453 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:16,033 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:17,977 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:19,024 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:19,112 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:19,217 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:19,573 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:20,660 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:20,867 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:21,124 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:21,286 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:22,093 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:22,793 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:23,025 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:23,253 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:24,632 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:24,884 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:27,733 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:29,850 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:29,986 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:30,279 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:30,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:31,035 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:31,287 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:31,916 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:33,166 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:34,965 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:35,449 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:35,712 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:58:40,145 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:59:16,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
+2025-04-22 11:59:16,559 - __main__ - INFO - Preprocessing and complexity metrics done
+2025-04-22 11:59:16,561 - gensim.utils - INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.025>', 'datetime': '2025-04-22T11:59:16.561094', 'gensim': '4.3.3', 'python': '3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0]', 'platform': 'Linux-6.8.0-57-generic-x86_64-with-glibc2.35', 'event': 'created'}
+2025-04-22 11:59:22,276 - __main__ - INFO - ▶ Vectorizing 448 texts in batches of 8
+2025-04-22 11:59:22,277 - __main__ - INFO -    • Processing texts 1 to 8 of 448
+2025-04-22 11:59:27,469 - __main__ - INFO -    • Processing texts 9 to 16 of 448
+2025-04-22 11:59:32,499 - __main__ - INFO -    • Processing texts 17 to 24 of 448
+2025-04-22 11:59:37,518 - __main__ - INFO -    • Processing texts 25 to 32 of 448
+2025-04-22 11:59:42,033 - __main__ - INFO -    • Processing texts 33 to 40 of 448
+2025-04-22 11:59:46,287 - __main__ - INFO -    • Processing texts 41 to 48 of 448
+2025-04-22 11:59:50,897 - __main__ - INFO -    • Processing texts 49 to 56 of 448
+2025-04-22 11:59:55,831 - __main__ - INFO -    • Processing texts 57 to 64 of 448
+2025-04-22 12:00:00,014 - __main__ - INFO -    • Processing texts 65 to 72 of 448
+2025-04-22 12:00:03,837 - __main__ - INFO -    • Processing texts 73 to 80 of 448
+2025-04-22 12:00:09,253 - __main__ - INFO -    • Processing texts 81 to 88 of 448
+2025-04-22 12:00:14,308 - __main__ - INFO -    • Processing texts 89 to 96 of 448
+2025-04-22 12:00:19,401 - __main__ - INFO -    • Processing texts 97 to 104 of 448
+2025-04-22 12:00:23,688 - __main__ - INFO -    • Processing texts 105 to 112 of 448
+2025-04-22 12:00:33,719 - __main__ - INFO -    • Processing texts 113 to 120 of 448
+2025-04-22 12:00:37,851 - __main__ - INFO -    • Processing texts 121 to 128 of 448
+2025-04-22 12:00:41,685 - __main__ - INFO -    • Processing texts 129 to 136 of 448
+2025-04-22 12:00:47,337 - __main__ - INFO -    • Processing texts 137 to 144 of 448
+2025-04-22 12:00:52,228 - __main__ - INFO -    • Processing texts 145 to 152 of 448
+2025-04-22 12:01:00,672 - __main__ - INFO -    • Processing texts 153 to 160 of 448
+2025-04-22 12:01:04,576 - __main__ - INFO -    • Processing texts 161 to 168 of 448
+2025-04-22 12:01:09,168 - __main__ - INFO -    • Processing texts 169 to 176 of 448
+2025-04-22 12:01:13,252 - __main__ - INFO -    • Processing texts 177 to 184 of 448
+2025-04-22 12:01:18,798 - __main__ - INFO -    • Processing texts 185 to 192 of 448
+2025-04-22 12:01:22,780 - __main__ - INFO -    • Processing texts 193 to 200 of 448
+2025-04-22 12:01:26,657 - __main__ - INFO -    • Processing texts 201 to 208 of 448
+2025-04-22 12:01:30,599 - __main__ - INFO -    • Processing texts 209 to 216 of 448
+2025-04-22 12:01:34,686 - __main__ - INFO -    • Processing texts 217 to 224 of 448
+2025-04-22 12:01:40,618 - __main__ - INFO -    • Processing texts 225 to 232 of 448
+2025-04-22 12:01:45,697 - __main__ - INFO -    • Processing texts 233 to 240 of 448
+2025-04-22 12:01:49,449 - __main__ - INFO -    • Processing texts 241 to 248 of 448
+2025-04-22 12:01:54,270 - __main__ - INFO -    • Processing texts 249 to 256 of 448
+2025-04-22 12:02:00,277 - __main__ - INFO -    • Processing texts 257 to 264 of 448
+2025-04-22 12:02:04,245 - __main__ - INFO -    • Processing texts 265 to 272 of 448
+2025-04-22 12:02:08,431 - __main__ - INFO -    • Processing texts 273 to 280 of 448
+2025-04-22 12:02:12,940 - __main__ - INFO -    • Processing texts 281 to 288 of 448
+2025-04-22 12:02:17,427 - __main__ - INFO -    • Processing texts 289 to 296 of 448
+2025-04-22 12:02:21,255 - __main__ - INFO -    • Processing texts 297 to 304 of 448
+2025-04-22 12:02:26,325 - __main__ - INFO -    • Processing texts 305 to 312 of 448
+2025-04-22 12:02:30,471 - __main__ - INFO -    • Processing texts 313 to 320 of 448
+2025-04-22 12:02:35,826 - __main__ - INFO -    • Processing texts 321 to 328 of 448
+2025-04-22 12:02:39,826 - __main__ - INFO -    • Processing texts 329 to 336 of 448
+2025-04-22 12:02:43,842 - __main__ - INFO -    • Processing texts 337 to 344 of 448
+2025-04-22 12:02:48,516 - __main__ - INFO -    • Processing texts 345 to 352 of 448
+2025-04-22 12:02:52,337 - __main__ - INFO -    • Processing texts 353 to 360 of 448
+2025-04-22 12:02:56,867 - __main__ - INFO -    • Processing texts 361 to 368 of 448
+2025-04-22 12:03:00,982 - __main__ - INFO -    • Processing texts 369 to 376 of 448
+2025-04-22 12:03:05,427 - __main__ - INFO -    • Processing texts 377 to 384 of 448
+2025-04-22 12:03:09,873 - __main__ - INFO -    • Processing texts 385 to 392 of 448
+2025-04-22 12:03:13,609 - __main__ - INFO -    • Processing texts 393 to 400 of 448
+2025-04-22 12:03:18,755 - __main__ - INFO -    • Processing texts 401 to 408 of 448
+2025-04-22 12:03:22,654 - __main__ - INFO -    • Processing texts 409 to 416 of 448
+2025-04-22 12:03:26,653 - __main__ - INFO -    • Processing texts 417 to 424 of 448
+2025-04-22 12:03:31,222 - __main__ - INFO -    • Processing texts 425 to 432 of 448
+2025-04-22 12:03:34,948 - __main__ - INFO -    • Processing texts 433 to 440 of 448
+2025-04-22 12:03:39,320 - __main__ - INFO -    • Processing texts 441 to 448 of 448
+2025-04-22 12:03:48,067 - __main__ - INFO - ✔ Finished BERT vectorization
+2025-04-22 12:03:48,073 - data_mining.categorization_model - INFO - Data resampled using SMOTE.
+2025-04-22 12:03:49,401 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.4222
+2025-04-22 12:03:49,421 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.43      0.44      0.43        45
+           1       0.42      0.40      0.41        45
+
+    accuracy                           0.42        90
+   macro avg       0.42      0.42      0.42        90
+weighted avg       0.42      0.42      0.42        90
+
+2025-04-22 12:03:51,992 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.5333
+2025-04-22 12:03:52,010 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.53      0.51      0.52        45
+           1       0.53      0.56      0.54        45
+
+    accuracy                           0.53        90
+   macro avg       0.53      0.53      0.53        90
+weighted avg       0.53      0.53      0.53        90
+
+2025-04-22 12:03:53,694 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.4778
+2025-04-22 12:03:53,708 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.48      0.47      0.47        45
+           1       0.48      0.49      0.48        45
+
+    accuracy                           0.48        90
+   macro avg       0.48      0.48      0.48        90
+weighted avg       0.48      0.48      0.48        90
+
+2025-04-22 12:03:55,818 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.3820
+2025-04-22 12:03:55,837 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.39      0.40      0.40        45
+           1       0.37      0.36      0.37        44
+
+    accuracy                           0.38        89
+   macro avg       0.38      0.38      0.38        89
+weighted avg       0.38      0.38      0.38        89
+
+2025-04-22 12:03:57,876 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.3820
+2025-04-22 12:03:57,899 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.37      0.36      0.37        44
+           1       0.39      0.40      0.40        45
+
+    accuracy                           0.38        89
+   macro avg       0.38      0.38      0.38        89
+weighted avg       0.38      0.38      0.38        89
+
+2025-04-22 12:03:58,545 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4556
+2025-04-22 12:03:58,564 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.46      0.56      0.51        45
+           1       0.44      0.36      0.40        45
+
+    accuracy                           0.46        90
+   macro avg       0.45      0.46      0.45        90
+weighted avg       0.45      0.46      0.45        90
+
+2025-04-22 12:03:59,202 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4444
+2025-04-22 12:03:59,221 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.41      0.24      0.31        45
+           1       0.46      0.64      0.54        45
+
+    accuracy                           0.44        90
+   macro avg       0.43      0.44      0.42        90
+weighted avg       0.43      0.44      0.42        90
+
+2025-04-22 12:03:59,878 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.5000
+2025-04-22 12:03:59,898 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.50      0.60      0.55        45
+           1       0.50      0.40      0.44        45
+
+    accuracy                           0.50        90
+   macro avg       0.50      0.50      0.49        90
+weighted avg       0.50      0.50      0.49        90
+
+2025-04-22 12:04:00,539 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4382
+2025-04-22 12:04:00,555 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.41      0.27      0.32        45
+           1       0.45      0.61      0.52        44
+
+    accuracy                           0.44        89
+   macro avg       0.43      0.44      0.42        89
+weighted avg       0.43      0.44      0.42        89
+
+2025-04-22 12:04:01,128 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4045
+2025-04-22 12:04:01,145 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.40      0.41      0.40        44
+           1       0.41      0.40      0.40        45
+
+    accuracy                           0.40        89
+   macro avg       0.40      0.40      0.40        89
+weighted avg       0.40      0.40      0.40        89
+
+2025-04-22 12:04:06,653 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4778
+2025-04-22 12:04:06,676 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.47      0.42      0.45        45
+           1       0.48      0.53      0.51        45
+
+    accuracy                           0.48        90
+   macro avg       0.48      0.48      0.48        90
+weighted avg       0.48      0.48      0.48        90
+
+2025-04-22 12:04:12,544 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4667
+2025-04-22 12:04:12,568 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.46      0.38      0.41        45
+           1       0.47      0.56      0.51        45
+
+    accuracy                           0.47        90
+   macro avg       0.47      0.47      0.46        90
+weighted avg       0.47      0.47      0.46        90
+
+2025-04-22 12:04:18,309 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4556
+2025-04-22 12:04:18,339 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.45      0.38      0.41        45
+           1       0.46      0.53      0.49        45
+
+    accuracy                           0.46        90
+   macro avg       0.45      0.46      0.45        90
+weighted avg       0.45      0.46      0.45        90
+
+2025-04-22 12:04:23,751 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.5169
+2025-04-22 12:04:23,779 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.52      0.56      0.54        45
+           1       0.51      0.48      0.49        44
+
+    accuracy                           0.52        89
+   macro avg       0.52      0.52      0.52        89
+weighted avg       0.52      0.52      0.52        89
+
+2025-04-22 12:04:29,678 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4045
+2025-04-22 12:04:29,710 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
+
+           0       0.40      0.41      0.40        44
+           1       0.41      0.40      0.40        45
+
+    accuracy                           0.40        89
+   macro avg       0.40      0.40      0.40        89
+weighted avg       0.40      0.40      0.40        89
+
+2025-04-22 12:04:30,256 - data_mining.categorization_model - INFO - Best model: RandomForestClassifier (acc=0.5333)
+2025-04-22 12:04:30,257 - __main__ - INFO - Best model: RandomForestClassifier
+2025-04-22 12:04:30,411 - __main__ - INFO - Saved best model and label encoder
+2025-04-22 12:04:30,468 - __main__ - INFO - Saved complexity_vs_accuracy CSV: /home/thay/TCC/reports/complexity_vs_accuracy.csv
+2025-04-22 12:04:30,719 - data_analysis.validation - INFO - Sample validation completed.
+2025-04-22 12:04:30,736 - data_analysis.statistical_analysis - INFO - ▶ Starting statistical analysis and plot generation
+2025-04-22 12:04:30,745 - data_analysis.statistical_analysis - INFO - ✔ Saved correlation CSV: /home/thay/TCC/reports/correlation_matrix.csv
+2025-04-22 12:04:31,758 - data_analysis.statistical_analysis - INFO - ✔ Saved heatmap PNG: /home/thay/TCC/reports/correlation_matrix.png
+2025-04-22 12:04:32,835 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/avg_sentence_length_vs_accuracy.png
+2025-04-22 12:04:33,896 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/lexical_density_vs_accuracy.png
+2025-04-22 12:04:35,079 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/flesch_index_vs_accuracy.png
+2025-04-22 12:04:36,112 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/syntactic_depth_vs_accuracy.png
+2025-04-22 12:04:36,118 - data_analysis.statistical_analysis - INFO - ✔ Saved combined data CSV: /home/thay/TCC/reports/complexity_vs_accuracy_data.csv
+2025-04-22 12:04:36,118 - data_analysis.statistical_analysis - INFO - ✔ Statistical analysis COMPLETED.
+2025-04-22 12:04:36,119 - data_analysis.longitudinal_analysis - INFO - ▶ Starting longitudinal analysis
+2025-04-22 12:04:37,171 - data_analysis.longitudinal_analysis - INFO - ✔ Saved longitudinal trend PNG: /home/thay/TCC/reports/longitudinal_trends.png
+2025-04-22 12:04:37,173 - data_analysis.longitudinal_analysis - INFO - ✔ Saved longitudinal trend data CSV: /home/thay/TCC/reports/longitudinal_trends_data.csv
+2025-04-22 12:04:37,173 - data_analysis.longitudinal_analysis - INFO - ✔ Longitudinal analysis COMPLETED.
