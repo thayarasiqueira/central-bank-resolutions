@@ -1,14 +1,16 @@
 import logging
 import json
+from pathlib import Path
+from typing import Any
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
 
-def plot_trends(data_path):
+def plot_trends(data_path: Any) -> None:
     BASE_DIR = Path(__file__).resolve().parent.parent
     reports = BASE_DIR / 'reports'
     reports.mkdir(parents=True, exist_ok=True)
@@ -30,23 +32,23 @@ def plot_trends(data_path):
             return
 
         df['year'] = df['publication_date'].dt.year
-        metrics = df.groupby('year')['content'].apply(lambda x: x.str.len().mean()).reset_index()
+        metrics = df.groupby('year')['content'].apply(lambda s: s.str.len().mean()).reset_index()
 
-        plt.figure(figsize=(10, 6))
-        sns.lineplot(data=metrics, x='year', y='content')
-        plt.title('Average Resolution Length Over Time')
-        plt.xlabel('Year')
-        plt.ylabel('Average Characters per Resolution')
-        plt.tight_layout()
+        fig, ax = plt.subplots(figsize=(10, 6))
+        sns.lineplot(data=metrics, x='year', y='content', ax=ax)
+        ax.set_title('Average Resolution Length Over Time')
+        ax.set_xlabel('Year')
+        ax.set_ylabel('Average Characters per Resolution')
         trend_png = reports / 'longitudinal_trends.png'
-        plt.savefig(trend_png)
-        plt.close()
-        logger.info(f"✔ Saved longitudinal trend PNG: {trend_png}")
+        fig.tight_layout()
+        fig.savefig(trend_png)
+        plt.close(fig)
+        logger.info("✔ Saved longitudinal trend PNG: %s", trend_png)
 
         trend_csv = reports / 'longitudinal_trends_data.csv'
         metrics.to_csv(trend_csv, index=False)
-        logger.info(f"✔ Saved longitudinal trend data CSV: {trend_csv}")
+        logger.info("✔ Saved longitudinal trend data CSV: %s", trend_csv)
 
         logger.info("✔ Longitudinal analysis COMPLETED.")
     except Exception as e:
-        logger.error(f"❌ Failed in longitudinal analysis: {e}")
+        logger.exception("❌ Failed in longitudinal analysis: %s", e)

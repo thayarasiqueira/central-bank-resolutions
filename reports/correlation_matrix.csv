@@ -1,6 +1,6 @@
 ,avg_sentence_length,lexical_density,flesch_index,syntactic_depth,accuracy
-avg_sentence_length,1.0,-0.42,-1.0,0.06,0.04
-lexical_density,-0.42,1.0,0.42,-0.2,-0.05
-flesch_index,-1.0,0.42,1.0,-0.06,-0.04
-syntactic_depth,0.06,-0.2,-0.06,1.0,-0.02
-accuracy,0.04,-0.05,-0.04,-0.02,1.0
+avg_sentence_length,1.0,-0.42,-1.0,0.06,-0.06
+lexical_density,-0.42,1.0,0.42,-0.2,-0.07
+flesch_index,-1.0,0.42,1.0,-0.06,0.06
+syntactic_depth,0.06,-0.2,-0.06,1.0,0.01
+accuracy,-0.06,-0.07,0.06,0.01,1.0

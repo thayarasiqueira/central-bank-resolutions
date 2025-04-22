@@ -8,7 +8,6 @@ import joblib
 from pathlib import Path
 from sklearn.preprocessing import LabelEncoder
 from transformers import BertTokenizer, TFBertModel
-import tensorflow as tf
 from gensim.models import Word2Vec
 
 from data_mining.preprocessing import preprocess_text
@@ -41,10 +40,11 @@ def configure_logging():
     )
     return logging.getLogger(__name__)
 
-def bert_vectorize_texts(texts, tokenizer, model, batch_size=8, max_length=128):
+
+def bert_vectorize_texts(texts, tokenizer, model, batch_size: int = 8, max_length: int = 128):
+    logger = logging.getLogger(__name__)
     embeddings = []
     total = len(texts)
-    logger = logging.getLogger(__name__)
     logger.info(f"▶ Vectorizing {total} texts in batches of {batch_size}")
     for start in range(0, total, batch_size):
         end = min(start + batch_size, total)
@@ -64,31 +64,38 @@ def bert_vectorize_texts(texts, tokenizer, model, batch_size=8, max_length=128):
     logger.info("✔ Finished BERT vectorization")
     return result
 
+
 def run_data_mining():
     logger = logging.getLogger(__name__)
     logger.info("=== Starting Data Mining ===")
 
     with open(DATA_PATH, 'r', encoding='utf-8') as f:
         resolutions = json.load(f)
-    logger.info(f"Loaded {len(resolutions)} resolutions")
 
     texts = []
+    comp_metrics = []
     for r in resolutions:
-        content = preprocess_text(r.get('content', ''))
-        r['content_processed'] = content
-        r['complexity_metrics'] = calculate_complexity_metrics(content)
-        texts.append(content)
-    logger.info("Preprocessing and complexity metrics done")
+        proc = preprocess_text(r.get('content', ''))
+        r['content_processed'] = proc
+        cm = calculate_complexity_metrics(proc)
+        r['complexity_metrics'] = cm
+        texts.append(proc)
+        comp_metrics.append(list(cm.values()))
+    logger.info("✔ Preprocessing and complexity metrics done")
 
     Word2Vec(vector_size=100, window=5, min_count=1, workers=4)
-    bert_tok = BertTokenizer.from_pretrained('bert-base-uncased')
+    bert_tok   = BertTokenizer.from_pretrained('bert-base-uncased')
     bert_model = TFBertModel.from_pretrained('bert-base-uncased')
 
     try:
-        X = bert_vectorize_texts(texts, bert_tok, bert_model)
+        X_bert = bert_vectorize_texts(texts, bert_tok, bert_model)
     except Exception as e:
         logger.error(f"Error during BERT vectorization: {e}")
         sys.exit(1)
+
+    X_comp = np.array(comp_metrics)
+    X = np.hstack([X_bert, X_comp])
+    logger.info("✔ Combined embeddings with complexity metrics: X shape = %s", X.shape)
 
     cats = [r.get('category', f"cat_{i%2}") for i, r in enumerate(resolutions)]
     le = LabelEncoder().fit(cats)
@@ -98,36 +105,36 @@ def run_data_mining():
     if best_model is None:
         logger.error("No best model returned")
         sys.exit(1)
-    logger.info(f"Best model: {best_model.__class__.__name__}")
+    logger.info("✔ Best model: %s", best_model.__class__.__name__)
 
     joblib.dump(best_model, MODELS_DIR / 'best_model.pkl')
-    joblib.dump(le,         MODELS_DIR / 'label_encoder.pkl')
-    logger.info("Saved best model and label encoder")
+    joblib.dump(le,        MODELS_DIR / 'label_encoder.pkl')
+    logger.info("✔ Saved best model and label encoder")
 
-    y_pred_full = best_model.predict(X)
-    df_metrics = pd.DataFrame([r['complexity_metrics'] for r in resolutions])
-    df_metrics['per_instance_accuracy'] = (y_pred_full == y).astype(int)
+    y_full_pred = best_model.predict(X)
+
+    df_m = pd.DataFrame([r['complexity_metrics'] for r in resolutions])
+    df_m['per_instance_accuracy'] = (y_full_pred == y).astype(int)
     metrics_csv = REPORTS_DIR / 'complexity_vs_accuracy.csv'
-    df_metrics.to_csv(metrics_csv, index=False)
-    logger.info(f"Saved complexity_vs_accuracy CSV: {metrics_csv}")
+    df_m.to_csv(metrics_csv, index=False)
+    logger.info("✔ Saved complexity_vs_accuracy.csv")
+
 
 def run_data_analysis():
     logger = logging.getLogger(__name__)
     metrics_file = REPORTS_DIR / 'complexity_vs_accuracy.csv'
-
     if not metrics_file.exists():
         logger.warning(f"'{metrics_file.name}' not found; running data mining first")
         run_data_mining()
 
     validate_sample(DATA_PATH)
-
     df = pd.read_csv(metrics_file)
     analyze_complexity_vs_accuracy(
         df.drop(columns=['per_instance_accuracy']).to_dict(orient='records'),
         df['per_instance_accuracy'].values
     )
-
     plot_trends(DATA_PATH)
+
 
 def main():
     configure_logging()

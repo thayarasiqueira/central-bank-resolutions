@@ -1,679 +1,559 @@
-2025-04-22 11:48:19,681 - __main__ - INFO - === Starting Data Mining ===
-2025-04-22 11:48:20,049 - __main__ - INFO - Loaded 448 resolutions
-2025-04-22 11:48:20,931 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:25,054 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:25,343 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:25,467 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:25,707 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:30,052 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:30,630 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:30,812 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:37,310 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:38,214 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:38,351 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:40,680 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:41,809 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:42,404 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:43,855 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:44,000 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:47,703 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:47,943 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:51,578 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:53,500 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:53,982 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:56,634 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:57,313 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:48:57,925 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:01,333 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:02,004 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:03,551 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:03,862 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:04,188 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:04,919 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:07,005 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:08,111 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:09,142 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:13,372 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:13,563 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:13,678 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:13,973 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:14,192 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:14,387 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:15,259 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:15,625 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:16,106 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:17,608 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:20,273 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:20,719 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:21,659 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:26,296 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:26,430 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:26,580 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:29,966 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:30,495 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:31,094 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:34,641 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:35,241 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:35,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:39,394 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:40,871 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:41,062 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:41,327 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:41,988 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:42,620 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:44,083 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:46,665 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:47,267 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:47,502 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:47,714 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:48,347 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:48,697 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:48,961 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:49,325 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:49,673 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:51,320 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:52,865 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:49:54,910 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:06,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:06,769 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:07,274 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:07,517 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:07,754 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:08,232 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:12,421 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:14,375 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:15,347 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:16,655 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:18,811 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:19,292 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:20,156 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:23,629 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:24,044 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:24,260 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:25,255 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:28,187 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:28,377 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:28,476 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:30,797 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:38,876 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:39,397 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:39,753 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:40,151 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:40,429 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:41,542 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:42,808 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:43,225 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:45,078 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:45,297 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:46,163 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:50:47,217 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:29,633 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:32,439 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:38,656 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:40,569 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:41,790 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:42,356 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:42,684 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:43,705 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:45,734 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:46,937 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:48,089 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:48,218 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:49,012 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:49,318 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:49,813 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:50,188 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:50,579 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:51,414 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:52,771 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:53,490 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:53,660 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:53,891 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:57,297 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:51:57,883 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:03,340 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:04,138 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:10,041 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:12,038 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:14,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:14,710 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:14,969 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:15,198 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:22,256 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:26,583 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:27,058 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:27,411 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:52:29,076 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:00,580 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:07,013 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:08,625 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:09,014 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:09,478 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:09,751 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:10,028 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:10,729 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:11,026 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:11,241 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:12,118 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:13,171 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:13,498 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:15,840 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:15,964 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:16,113 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:16,454 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:18,509 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:19,598 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:23,957 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:24,244 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:24,407 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:24,608 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:25,531 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:26,073 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:26,321 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:29,093 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:31,000 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:31,113 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:31,276 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:31,741 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:32,284 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:32,789 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:32,885 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:33,226 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:33,380 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:34,297 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:35,190 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:41,234 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:51,887 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:54,207 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:54,473 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:54,603 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:55,688 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:55,873 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:56,623 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:56,899 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:57,301 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:57,872 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:58,239 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:58,940 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:53:59,524 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:00,181 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:00,413 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:01,813 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:02,070 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:04,489 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:04,863 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:05,210 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:05,689 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:05,814 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:06,232 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:06,430 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:07,165 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:07,392 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:08,007 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:08,172 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:08,955 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:10,449 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:11,415 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:11,676 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:11,823 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:13,122 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:13,261 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:13,440 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:33,167 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:33,259 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:33,510 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:33,646 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:34,668 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:34,816 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:35,221 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:35,702 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:36,064 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:36,220 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:48,941 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:49,287 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:49,774 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:49,941 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:50,107 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:50,252 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:50,352 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:51,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:51,896 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:53,151 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:53,610 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:54,375 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:56,052 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:56,271 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:56,497 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:56,877 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:57,765 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:54:59,108 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:06,039 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:12,761 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:14,668 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:18,658 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:19,370 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:19,679 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:25,172 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:25,834 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:26,110 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:26,219 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:26,399 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:28,158 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:28,372 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:30,796 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:30,973 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:31,359 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:31,511 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:31,681 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:31,929 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:32,420 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:32,649 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:33,326 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:34,080 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:34,464 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:38,237 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:38,483 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:39,737 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:40,888 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:41,599 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:43,031 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:46,876 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:47,639 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:48,120 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:51,185 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:52,191 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:52,550 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:55,781 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:55,968 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:56,354 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:56,931 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:57,168 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:57,658 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:57,778 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:58,112 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:58,989 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:55:59,298 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:01,389 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:02,182 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:02,374 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:02,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:03,629 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:08,367 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:08,627 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:08,849 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:12,229 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:12,910 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:15,269 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:16,443 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:16,896 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:17,464 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:17,623 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:18,224 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:19,049 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:19,402 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:21,815 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:22,161 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:23,763 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:25,615 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:25,733 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:25,955 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:31,268 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:37,135 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:37,630 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:38,119 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:38,447 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:39,268 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:39,773 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:41,024 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:41,328 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:42,853 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:43,006 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:44,665 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:45,061 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:45,997 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:46,448 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:48,586 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:48,702 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:48,847 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:49,175 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:49,942 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:52,341 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:56,607 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:57,459 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:57,965 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:58,585 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:56:58,768 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:02,056 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:02,697 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:02,862 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:04,325 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:04,422 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:04,980 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:05,129 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:05,467 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:06,622 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:08,933 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:09,086 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:09,334 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:10,411 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:11,026 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:11,904 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:16,087 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:16,890 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:17,126 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:18,109 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:18,676 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:21,116 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:21,218 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:21,607 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:21,982 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:23,841 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:25,990 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:26,371 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:26,511 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:27,475 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:29,466 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:30,613 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:30,885 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:33,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:33,774 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:34,853 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:37,309 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:38,096 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:38,289 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:39,840 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:40,938 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:41,060 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:41,690 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:41,911 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:42,488 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:42,676 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:42,866 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:43,009 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:43,470 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:44,434 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:44,790 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:44,961 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:51,381 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:51,584 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:51,825 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:53,026 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:58,949 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:57:59,140 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:00,573 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:02,504 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:02,575 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:02,920 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:03,292 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:03,601 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:03,906 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:04,032 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:04,302 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:04,538 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:04,751 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:05,287 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:05,493 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:05,954 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:09,247 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:10,158 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:13,372 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:14,453 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:16,033 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:17,977 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:19,024 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:19,112 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:19,217 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:19,573 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:20,660 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:20,867 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:21,124 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:21,286 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:22,093 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:22,793 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:23,025 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:23,253 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:24,632 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:24,884 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:27,733 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:29,850 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:29,986 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:30,279 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:30,445 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:31,035 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:31,287 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:31,916 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:33,166 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:34,965 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:35,449 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:35,712 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:58:40,145 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:59:16,539 - data_analysis.complexity_analysis - INFO - Complexity metrics calculated.
-2025-04-22 11:59:16,559 - __main__ - INFO - Preprocessing and complexity metrics done
-2025-04-22 11:59:16,561 - gensim.utils - INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.025>', 'datetime': '2025-04-22T11:59:16.561094', 'gensim': '4.3.3', 'python': '3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0]', 'platform': 'Linux-6.8.0-57-generic-x86_64-with-glibc2.35', 'event': 'created'}
-2025-04-22 11:59:22,276 - __main__ - INFO - ▶ Vectorizing 448 texts in batches of 8
-2025-04-22 11:59:22,277 - __main__ - INFO -    • Processing texts 1 to 8 of 448
-2025-04-22 11:59:27,469 - __main__ - INFO -    • Processing texts 9 to 16 of 448
-2025-04-22 11:59:32,499 - __main__ - INFO -    • Processing texts 17 to 24 of 448
-2025-04-22 11:59:37,518 - __main__ - INFO -    • Processing texts 25 to 32 of 448
-2025-04-22 11:59:42,033 - __main__ - INFO -    • Processing texts 33 to 40 of 448
-2025-04-22 11:59:46,287 - __main__ - INFO -    • Processing texts 41 to 48 of 448
-2025-04-22 11:59:50,897 - __main__ - INFO -    • Processing texts 49 to 56 of 448
-2025-04-22 11:59:55,831 - __main__ - INFO -    • Processing texts 57 to 64 of 448
-2025-04-22 12:00:00,014 - __main__ - INFO -    • Processing texts 65 to 72 of 448
-2025-04-22 12:00:03,837 - __main__ - INFO -    • Processing texts 73 to 80 of 448
-2025-04-22 12:00:09,253 - __main__ - INFO -    • Processing texts 81 to 88 of 448
-2025-04-22 12:00:14,308 - __main__ - INFO -    • Processing texts 89 to 96 of 448
-2025-04-22 12:00:19,401 - __main__ - INFO -    • Processing texts 97 to 104 of 448
-2025-04-22 12:00:23,688 - __main__ - INFO -    • Processing texts 105 to 112 of 448
-2025-04-22 12:00:33,719 - __main__ - INFO -    • Processing texts 113 to 120 of 448
-2025-04-22 12:00:37,851 - __main__ - INFO -    • Processing texts 121 to 128 of 448
-2025-04-22 12:00:41,685 - __main__ - INFO -    • Processing texts 129 to 136 of 448
-2025-04-22 12:00:47,337 - __main__ - INFO -    • Processing texts 137 to 144 of 448
-2025-04-22 12:00:52,228 - __main__ - INFO -    • Processing texts 145 to 152 of 448
-2025-04-22 12:01:00,672 - __main__ - INFO -    • Processing texts 153 to 160 of 448
-2025-04-22 12:01:04,576 - __main__ - INFO -    • Processing texts 161 to 168 of 448
-2025-04-22 12:01:09,168 - __main__ - INFO -    • Processing texts 169 to 176 of 448
-2025-04-22 12:01:13,252 - __main__ - INFO -    • Processing texts 177 to 184 of 448
-2025-04-22 12:01:18,798 - __main__ - INFO -    • Processing texts 185 to 192 of 448
-2025-04-22 12:01:22,780 - __main__ - INFO -    • Processing texts 193 to 200 of 448
-2025-04-22 12:01:26,657 - __main__ - INFO -    • Processing texts 201 to 208 of 448
-2025-04-22 12:01:30,599 - __main__ - INFO -    • Processing texts 209 to 216 of 448
-2025-04-22 12:01:34,686 - __main__ - INFO -    • Processing texts 217 to 224 of 448
-2025-04-22 12:01:40,618 - __main__ - INFO -    • Processing texts 225 to 232 of 448
-2025-04-22 12:01:45,697 - __main__ - INFO -    • Processing texts 233 to 240 of 448
-2025-04-22 12:01:49,449 - __main__ - INFO -    • Processing texts 241 to 248 of 448
-2025-04-22 12:01:54,270 - __main__ - INFO -    • Processing texts 249 to 256 of 448
-2025-04-22 12:02:00,277 - __main__ - INFO -    • Processing texts 257 to 264 of 448
-2025-04-22 12:02:04,245 - __main__ - INFO -    • Processing texts 265 to 272 of 448
-2025-04-22 12:02:08,431 - __main__ - INFO -    • Processing texts 273 to 280 of 448
-2025-04-22 12:02:12,940 - __main__ - INFO -    • Processing texts 281 to 288 of 448
-2025-04-22 12:02:17,427 - __main__ - INFO -    • Processing texts 289 to 296 of 448
-2025-04-22 12:02:21,255 - __main__ - INFO -    • Processing texts 297 to 304 of 448
-2025-04-22 12:02:26,325 - __main__ - INFO -    • Processing texts 305 to 312 of 448
-2025-04-22 12:02:30,471 - __main__ - INFO -    • Processing texts 313 to 320 of 448
-2025-04-22 12:02:35,826 - __main__ - INFO -    • Processing texts 321 to 328 of 448
-2025-04-22 12:02:39,826 - __main__ - INFO -    • Processing texts 329 to 336 of 448
-2025-04-22 12:02:43,842 - __main__ - INFO -    • Processing texts 337 to 344 of 448
-2025-04-22 12:02:48,516 - __main__ - INFO -    • Processing texts 345 to 352 of 448
-2025-04-22 12:02:52,337 - __main__ - INFO -    • Processing texts 353 to 360 of 448
-2025-04-22 12:02:56,867 - __main__ - INFO -    • Processing texts 361 to 368 of 448
-2025-04-22 12:03:00,982 - __main__ - INFO -    • Processing texts 369 to 376 of 448
-2025-04-22 12:03:05,427 - __main__ - INFO -    • Processing texts 377 to 384 of 448
-2025-04-22 12:03:09,873 - __main__ - INFO -    • Processing texts 385 to 392 of 448
-2025-04-22 12:03:13,609 - __main__ - INFO -    • Processing texts 393 to 400 of 448
-2025-04-22 12:03:18,755 - __main__ - INFO -    • Processing texts 401 to 408 of 448
-2025-04-22 12:03:22,654 - __main__ - INFO -    • Processing texts 409 to 416 of 448
-2025-04-22 12:03:26,653 - __main__ - INFO -    • Processing texts 417 to 424 of 448
-2025-04-22 12:03:31,222 - __main__ - INFO -    • Processing texts 425 to 432 of 448
-2025-04-22 12:03:34,948 - __main__ - INFO -    • Processing texts 433 to 440 of 448
-2025-04-22 12:03:39,320 - __main__ - INFO -    • Processing texts 441 to 448 of 448
-2025-04-22 12:03:48,067 - __main__ - INFO - ✔ Finished BERT vectorization
-2025-04-22 12:03:48,073 - data_mining.categorization_model - INFO - Data resampled using SMOTE.
-2025-04-22 12:03:49,401 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.4222
-2025-04-22 12:03:49,421 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.43      0.44      0.43        45
-           1       0.42      0.40      0.41        45
-
-    accuracy                           0.42        90
-   macro avg       0.42      0.42      0.42        90
-weighted avg       0.42      0.42      0.42        90
-
-2025-04-22 12:03:51,992 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.5333
-2025-04-22 12:03:52,010 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.53      0.51      0.52        45
-           1       0.53      0.56      0.54        45
-
-    accuracy                           0.53        90
-   macro avg       0.53      0.53      0.53        90
-weighted avg       0.53      0.53      0.53        90
-
-2025-04-22 12:03:53,694 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.4778
-2025-04-22 12:03:53,708 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.48      0.47      0.47        45
-           1       0.48      0.49      0.48        45
-
-    accuracy                           0.48        90
-   macro avg       0.48      0.48      0.48        90
-weighted avg       0.48      0.48      0.48        90
-
-2025-04-22 12:03:55,818 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.3820
-2025-04-22 12:03:55,837 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.39      0.40      0.40        45
-           1       0.37      0.36      0.37        44
-
-    accuracy                           0.38        89
-   macro avg       0.38      0.38      0.38        89
-weighted avg       0.38      0.38      0.38        89
-
-2025-04-22 12:03:57,876 - data_mining.categorization_model - INFO - RandomForest fold accuracy: 0.3820
-2025-04-22 12:03:57,899 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.37      0.36      0.37        44
-           1       0.39      0.40      0.40        45
-
-    accuracy                           0.38        89
-   macro avg       0.38      0.38      0.38        89
-weighted avg       0.38      0.38      0.38        89
-
-2025-04-22 12:03:58,545 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4556
-2025-04-22 12:03:58,564 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.46      0.56      0.51        45
-           1       0.44      0.36      0.40        45
-
-    accuracy                           0.46        90
-   macro avg       0.45      0.46      0.45        90
-weighted avg       0.45      0.46      0.45        90
-
-2025-04-22 12:03:59,202 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4444
-2025-04-22 12:03:59,221 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.41      0.24      0.31        45
-           1       0.46      0.64      0.54        45
-
-    accuracy                           0.44        90
-   macro avg       0.43      0.44      0.42        90
-weighted avg       0.43      0.44      0.42        90
-
-2025-04-22 12:03:59,878 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.5000
-2025-04-22 12:03:59,898 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.50      0.60      0.55        45
-           1       0.50      0.40      0.44        45
-
-    accuracy                           0.50        90
-   macro avg       0.50      0.50      0.49        90
-weighted avg       0.50      0.50      0.49        90
-
-2025-04-22 12:04:00,539 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4382
-2025-04-22 12:04:00,555 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.41      0.27      0.32        45
-           1       0.45      0.61      0.52        44
-
-    accuracy                           0.44        89
-   macro avg       0.43      0.44      0.42        89
-weighted avg       0.43      0.44      0.42        89
-
-2025-04-22 12:04:01,128 - data_mining.categorization_model - INFO - SVM fold accuracy: 0.4045
-2025-04-22 12:04:01,145 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.40      0.41      0.40        44
-           1       0.41      0.40      0.40        45
-
-    accuracy                           0.40        89
-   macro avg       0.40      0.40      0.40        89
-weighted avg       0.40      0.40      0.40        89
-
-2025-04-22 12:04:06,653 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4778
-2025-04-22 12:04:06,676 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.47      0.42      0.45        45
-           1       0.48      0.53      0.51        45
-
-    accuracy                           0.48        90
-   macro avg       0.48      0.48      0.48        90
-weighted avg       0.48      0.48      0.48        90
-
-2025-04-22 12:04:12,544 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4667
-2025-04-22 12:04:12,568 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.46      0.38      0.41        45
-           1       0.47      0.56      0.51        45
-
-    accuracy                           0.47        90
-   macro avg       0.47      0.47      0.46        90
-weighted avg       0.47      0.47      0.46        90
-
-2025-04-22 12:04:18,309 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4556
-2025-04-22 12:04:18,339 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.45      0.38      0.41        45
-           1       0.46      0.53      0.49        45
-
-    accuracy                           0.46        90
-   macro avg       0.45      0.46      0.45        90
-weighted avg       0.45      0.46      0.45        90
-
-2025-04-22 12:04:23,751 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.5169
-2025-04-22 12:04:23,779 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.52      0.56      0.54        45
-           1       0.51      0.48      0.49        44
-
-    accuracy                           0.52        89
-   macro avg       0.52      0.52      0.52        89
-weighted avg       0.52      0.52      0.52        89
-
-2025-04-22 12:04:29,678 - data_mining.categorization_model - INFO - XGBoost fold accuracy: 0.4045
-2025-04-22 12:04:29,710 - data_mining.categorization_model - INFO -               precision    recall  f1-score   support
-
-           0       0.40      0.41      0.40        44
-           1       0.41      0.40      0.40        45
-
-    accuracy                           0.40        89
-   macro avg       0.40      0.40      0.40        89
-weighted avg       0.40      0.40      0.40        89
-
-2025-04-22 12:04:30,256 - data_mining.categorization_model - INFO - Best model: RandomForestClassifier (acc=0.5333)
-2025-04-22 12:04:30,257 - __main__ - INFO - Best model: RandomForestClassifier
-2025-04-22 12:04:30,411 - __main__ - INFO - Saved best model and label encoder
-2025-04-22 12:04:30,468 - __main__ - INFO - Saved complexity_vs_accuracy CSV: /home/thay/TCC/reports/complexity_vs_accuracy.csv
-2025-04-22 12:04:30,719 - data_analysis.validation - INFO - Sample validation completed.
-2025-04-22 12:04:30,736 - data_analysis.statistical_analysis - INFO - ▶ Starting statistical analysis and plot generation
-2025-04-22 12:04:30,745 - data_analysis.statistical_analysis - INFO - ✔ Saved correlation CSV: /home/thay/TCC/reports/correlation_matrix.csv
-2025-04-22 12:04:31,758 - data_analysis.statistical_analysis - INFO - ✔ Saved heatmap PNG: /home/thay/TCC/reports/correlation_matrix.png
-2025-04-22 12:04:32,835 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/avg_sentence_length_vs_accuracy.png
-2025-04-22 12:04:33,896 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/lexical_density_vs_accuracy.png
-2025-04-22 12:04:35,079 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/flesch_index_vs_accuracy.png
-2025-04-22 12:04:36,112 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/syntactic_depth_vs_accuracy.png
-2025-04-22 12:04:36,118 - data_analysis.statistical_analysis - INFO - ✔ Saved combined data CSV: /home/thay/TCC/reports/complexity_vs_accuracy_data.csv
-2025-04-22 12:04:36,118 - data_analysis.statistical_analysis - INFO - ✔ Statistical analysis COMPLETED.
-2025-04-22 12:04:36,119 - data_analysis.longitudinal_analysis - INFO - ▶ Starting longitudinal analysis
-2025-04-22 12:04:37,171 - data_analysis.longitudinal_analysis - INFO - ✔ Saved longitudinal trend PNG: /home/thay/TCC/reports/longitudinal_trends.png
-2025-04-22 12:04:37,173 - data_analysis.longitudinal_analysis - INFO - ✔ Saved longitudinal trend data CSV: /home/thay/TCC/reports/longitudinal_trends_data.csv
-2025-04-22 12:04:37,173 - data_analysis.longitudinal_analysis - INFO - ✔ Longitudinal analysis COMPLETED.
+2025-04-22 15:28:37,175 - __main__ - INFO - === Starting Data Mining ===
+2025-04-22 15:28:38,424 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:42,440 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:42,717 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:42,844 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:43,093 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:47,591 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:48,127 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:48,302 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:54,728 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:55,601 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:55,751 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:58,067 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:59,151 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:28:59,821 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:01,952 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:02,231 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:06,426 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:06,659 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:10,520 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:12,504 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:13,080 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:15,559 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:16,183 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:16,695 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:20,145 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:20,840 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:22,355 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:22,660 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:23,002 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:23,871 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:25,918 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:26,987 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:28,093 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:32,297 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:32,495 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:32,604 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:32,867 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:33,093 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:33,299 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:34,259 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:34,756 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:35,183 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:36,345 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:38,931 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:39,350 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:40,771 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:45,407 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:45,558 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:45,706 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:48,641 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:49,126 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:49,635 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:53,272 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:53,896 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:54,224 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:29:58,472 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:00,067 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:00,252 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:00,562 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:01,458 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:02,033 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:03,290 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:05,763 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:06,663 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:06,883 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:07,058 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:07,582 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:07,961 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:08,186 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:08,530 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:08,883 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:10,588 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:12,564 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:14,686 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:26,515 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:26,868 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:27,439 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:27,735 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:27,990 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:28,385 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:32,677 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:34,573 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:35,706 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:36,829 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:38,984 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:39,457 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:40,365 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:44,126 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:44,555 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:44,757 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:45,869 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:48,465 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:48,658 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:48,757 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:51,005 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:30:59,780 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:00,326 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:00,704 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:01,125 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:01,411 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:02,528 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:03,876 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:04,195 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:05,962 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:06,190 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:07,101 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:08,471 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:54,378 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:31:57,239 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:03,901 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:05,928 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:07,270 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:07,781 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:08,169 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:09,114 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:10,967 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:12,423 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:13,622 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:13,756 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:14,933 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:15,260 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:15,766 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:16,163 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:16,630 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:17,794 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:18,991 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:19,650 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:19,803 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:20,030 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:23,625 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:24,219 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:30,865 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:31,692 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:39,178 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:41,725 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:44,685 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:44,912 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:45,297 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:45,578 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:54,269 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:58,518 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:58,965 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:32:59,256 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:00,553 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:32,923 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:39,560 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:41,117 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:41,482 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:41,931 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:42,199 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:42,425 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:43,037 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:43,401 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:43,641 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:44,605 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:45,271 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:45,550 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:47,577 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:47,693 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:47,834 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:48,154 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:50,051 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:50,959 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:55,727 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:56,139 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:56,440 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:56,800 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:58,625 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:59,503 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:33:59,764 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:02,810 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:04,368 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:04,471 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:04,623 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:05,061 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:05,511 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:05,976 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:06,070 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:06,383 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:06,532 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:07,377 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:08,192 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:13,148 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:23,074 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:25,263 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:25,529 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:25,656 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:26,764 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:26,959 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:27,789 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:28,055 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:28,478 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:29,171 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:29,516 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:30,109 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:30,616 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:31,204 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:31,409 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:32,684 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:32,925 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:35,177 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:35,504 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:35,810 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:36,232 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:36,327 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:36,651 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:36,817 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:37,460 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:37,668 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:38,123 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:38,271 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:39,026 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:40,286 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:41,123 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:41,363 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:41,486 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:42,603 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:42,728 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:34:42,884 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:02,173 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:02,275 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:02,516 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:02,644 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:03,657 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:03,794 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:04,147 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:04,626 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:04,933 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:05,079 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:17,893 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:18,245 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:18,707 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:18,875 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:19,030 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:19,174 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:19,281 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:20,590 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:20,898 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:22,091 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:22,549 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:23,250 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:24,746 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:24,946 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:25,153 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:25,477 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:26,256 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:27,349 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:33,759 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:40,575 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:42,412 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:47,458 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:48,159 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:48,461 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:54,684 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:55,565 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:55,855 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:55,961 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:56,136 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:57,949 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:35:58,158 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:00,646 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:00,808 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:01,359 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:01,503 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:01,696 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:01,946 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:02,547 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:02,775 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:03,476 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:04,321 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:04,707 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:08,730 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:08,959 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:10,141 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:11,324 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:12,194 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:13,475 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:17,244 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:18,173 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:18,627 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:21,185 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:22,232 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:22,632 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:25,463 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:25,639 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:26,039 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:26,457 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:26,683 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:27,273 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:27,414 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:27,792 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:28,540 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:28,819 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:30,803 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:31,525 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:31,731 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:31,852 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:33,287 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:37,836 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:38,235 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:38,456 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:41,361 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:41,915 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:44,156 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:45,237 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:45,679 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:46,208 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:46,337 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:46,857 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:47,613 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:48,018 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:51,096 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:51,471 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:53,091 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:55,407 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:55,534 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:36:55,756 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:01,406 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:07,577 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:08,233 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:08,690 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:09,016 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:09,812 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:10,261 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:11,508 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:11,901 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:13,550 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:13,691 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:15,272 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:15,623 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:16,421 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:16,893 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:18,962 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:19,073 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:19,212 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:19,529 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:20,236 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:22,526 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:26,795 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:27,787 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:28,383 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:28,891 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:29,055 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:32,158 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:32,938 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:33,174 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:34,553 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:34,650 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:35,262 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:35,389 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:35,717 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:36,796 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:38,986 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:39,134 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:39,395 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:40,539 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:41,286 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:42,329 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:47,028 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:47,902 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:48,124 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:49,210 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:49,616 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:51,969 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:52,065 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:52,460 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:52,858 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:54,937 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:57,492 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:57,924 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:58,073 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:37:59,115 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:00,855 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:01,763 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:02,040 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:05,055 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:05,351 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:06,640 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:09,802 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:10,716 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:10,911 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:12,384 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:13,440 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:13,566 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:14,250 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:14,497 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:15,236 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:15,518 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:15,738 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:15,885 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:16,331 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:17,241 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:17,599 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:17,765 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:24,223 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:24,432 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:24,682 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:25,988 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:32,112 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:32,287 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:33,476 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:35,417 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:35,493 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:35,842 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:36,231 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:36,697 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:37,216 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:37,354 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:37,606 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:37,815 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:38,026 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:38,503 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:38,701 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:39,160 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:42,612 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:43,515 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:46,758 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:48,146 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:49,633 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:51,428 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:52,940 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:53,045 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:53,159 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:53,597 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:54,629 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:54,837 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:55,093 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:55,245 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:55,968 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:56,568 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:56,816 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:57,037 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:58,597 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:38:58,870 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:01,553 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:04,280 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:04,432 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:04,690 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:04,877 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:05,541 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:05,844 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:06,533 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:07,866 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:09,802 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:10,258 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:10,520 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:14,916 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:52,317 - data_analysis.complexity_analysis - INFO - ✔ Complexity metrics calculated and saved to /home/thay/TCC/reports/complexity_metrics_report.csv
+2025-04-22 15:39:52,341 - __main__ - INFO - ✔ Preprocessing and complexity metrics done
+2025-04-22 15:39:52,349 - gensim.utils - INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.025>', 'datetime': '2025-04-22T15:39:52.349278', 'gensim': '4.3.3', 'python': '3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0]', 'platform': 'Linux-6.8.0-57-generic-x86_64-with-glibc2.35', 'event': 'created'}
+2025-04-22 15:39:59,435 - __main__ - INFO - ▶ Vectorizing 448 texts in batches of 8
+2025-04-22 15:39:59,436 - __main__ - INFO -    • Processing texts 1 to 8 of 448
+2025-04-22 15:40:05,009 - __main__ - INFO -    • Processing texts 9 to 16 of 448
+2025-04-22 15:40:10,575 - __main__ - INFO -    • Processing texts 17 to 24 of 448
+2025-04-22 15:40:16,006 - __main__ - INFO -    • Processing texts 25 to 32 of 448
+2025-04-22 15:40:20,684 - __main__ - INFO -    • Processing texts 33 to 40 of 448
+2025-04-22 15:40:25,139 - __main__ - INFO -    • Processing texts 41 to 48 of 448
+2025-04-22 15:40:30,133 - __main__ - INFO -    • Processing texts 49 to 56 of 448
+2025-04-22 15:40:35,706 - __main__ - INFO -    • Processing texts 57 to 64 of 448
+2025-04-22 15:40:40,430 - __main__ - INFO -    • Processing texts 65 to 72 of 448
+2025-04-22 15:40:44,291 - __main__ - INFO -    • Processing texts 73 to 80 of 448
+2025-04-22 15:40:49,913 - __main__ - INFO -    • Processing texts 81 to 88 of 448
+2025-04-22 15:40:55,530 - __main__ - INFO -    • Processing texts 89 to 96 of 448
+2025-04-22 15:41:01,020 - __main__ - INFO -    • Processing texts 97 to 104 of 448
+2025-04-22 15:41:05,318 - __main__ - INFO -    • Processing texts 105 to 112 of 448
+2025-04-22 15:41:15,681 - __main__ - INFO -    • Processing texts 113 to 120 of 448
+2025-04-22 15:41:20,092 - __main__ - INFO -    • Processing texts 121 to 128 of 448
+2025-04-22 15:41:24,121 - __main__ - INFO -    • Processing texts 129 to 136 of 448
+2025-04-22 15:41:30,030 - __main__ - INFO -    • Processing texts 137 to 144 of 448
+2025-04-22 15:41:35,474 - __main__ - INFO -    • Processing texts 145 to 152 of 448
+2025-04-22 15:41:44,385 - __main__ - INFO -    • Processing texts 153 to 160 of 448
+2025-04-22 15:41:48,659 - __main__ - INFO -    • Processing texts 161 to 168 of 448
+2025-04-22 15:41:53,665 - __main__ - INFO -    • Processing texts 169 to 176 of 448
+2025-04-22 15:41:58,155 - __main__ - INFO -    • Processing texts 177 to 184 of 448
+2025-04-22 15:42:03,908 - __main__ - INFO -    • Processing texts 185 to 192 of 448
+2025-04-22 15:42:08,653 - __main__ - INFO -    • Processing texts 193 to 200 of 448
+2025-04-22 15:42:12,922 - __main__ - INFO -    • Processing texts 201 to 208 of 448
+2025-04-22 15:42:16,867 - __main__ - INFO -    • Processing texts 209 to 216 of 448
+2025-04-22 15:42:20,676 - __main__ - INFO -    • Processing texts 217 to 224 of 448
+2025-04-22 15:42:26,490 - __main__ - INFO -    • Processing texts 225 to 232 of 448
+2025-04-22 15:42:31,555 - __main__ - INFO -    • Processing texts 233 to 240 of 448
+2025-04-22 15:42:35,287 - __main__ - INFO -    • Processing texts 241 to 248 of 448
+2025-04-22 15:42:39,906 - __main__ - INFO -    • Processing texts 249 to 256 of 448
+2025-04-22 15:42:45,468 - __main__ - INFO -    • Processing texts 257 to 264 of 448
+2025-04-22 15:42:49,579 - __main__ - INFO -    • Processing texts 265 to 272 of 448
+2025-04-22 15:42:53,546 - __main__ - INFO -    • Processing texts 273 to 280 of 448
+2025-04-22 15:42:57,939 - __main__ - INFO -    • Processing texts 281 to 288 of 448
+2025-04-22 15:43:02,215 - __main__ - INFO -    • Processing texts 289 to 296 of 448
+2025-04-22 15:43:06,019 - __main__ - INFO -    • Processing texts 297 to 304 of 448
+2025-04-22 15:43:10,800 - __main__ - INFO -    • Processing texts 305 to 312 of 448
+2025-04-22 15:43:14,798 - __main__ - INFO -    • Processing texts 313 to 320 of 448
+2025-04-22 15:43:19,859 - __main__ - INFO -    • Processing texts 321 to 328 of 448
+2025-04-22 15:43:23,796 - __main__ - INFO -    • Processing texts 329 to 336 of 448
+2025-04-22 15:43:27,781 - __main__ - INFO -    • Processing texts 337 to 344 of 448
+2025-04-22 15:43:32,394 - __main__ - INFO -    • Processing texts 345 to 352 of 448
+2025-04-22 15:43:36,235 - __main__ - INFO -    • Processing texts 353 to 360 of 448
+2025-04-22 15:43:40,949 - __main__ - INFO -    • Processing texts 361 to 368 of 448
+2025-04-22 15:43:44,995 - __main__ - INFO -    • Processing texts 369 to 376 of 448
+2025-04-22 15:43:49,293 - __main__ - INFO -    • Processing texts 377 to 384 of 448
+2025-04-22 15:43:53,477 - __main__ - INFO -    • Processing texts 385 to 392 of 448
+2025-04-22 15:43:57,200 - __main__ - INFO -    • Processing texts 393 to 400 of 448
+2025-04-22 15:44:02,096 - __main__ - INFO -    • Processing texts 401 to 408 of 448
+2025-04-22 15:44:05,905 - __main__ - INFO -    • Processing texts 409 to 416 of 448
+2025-04-22 15:44:09,979 - __main__ - INFO -    • Processing texts 417 to 424 of 448
+2025-04-22 15:44:14,604 - __main__ - INFO -    • Processing texts 425 to 432 of 448
+2025-04-22 15:44:18,330 - __main__ - INFO -    • Processing texts 433 to 440 of 448
+2025-04-22 15:44:22,494 - __main__ - INFO -    • Processing texts 441 to 448 of 448
+2025-04-22 15:44:30,586 - __main__ - INFO - ✔ Finished BERT vectorization
+2025-04-22 15:44:30,594 - __main__ - INFO - ✔ Combined embeddings with complexity metrics: X shape = (448, 772)
+2025-04-22 15:44:30,605 - data_mining.categorization_model - INFO - Data resampled using SMOTE: 448 -> 448 samples
+2025-04-22 15:44:31,917 - data_mining.categorization_model - INFO - RandomForest fold 1 accuracy: 0.5444
+2025-04-22 15:44:33,166 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_RandomForest.png
+2025-04-22 15:44:34,632 - data_mining.categorization_model - INFO - RandomForest fold 2 accuracy: 0.4000
+2025-04-22 15:44:35,315 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_RandomForest.png
+2025-04-22 15:44:36,878 - data_mining.categorization_model - INFO - RandomForest fold 3 accuracy: 0.4000
+2025-04-22 15:44:37,471 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_RandomForest.png
+2025-04-22 15:44:38,889 - data_mining.categorization_model - INFO - RandomForest fold 4 accuracy: 0.3820
+2025-04-22 15:44:39,507 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_RandomForest.png
+2025-04-22 15:44:40,959 - data_mining.categorization_model - INFO - RandomForest fold 5 accuracy: 0.3933
+2025-04-22 15:44:41,629 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_RandomForest.png
+2025-04-22 15:44:43,138 - data_mining.categorization_model - INFO - SVM fold 1 accuracy: 0.4889
+2025-04-22 15:44:43,736 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_SVM.png
+2025-04-22 15:44:45,307 - data_mining.categorization_model - INFO - SVM fold 2 accuracy: 0.5000
+2025-04-22 15:44:45,927 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_SVM.png
+2025-04-22 15:44:47,397 - data_mining.categorization_model - INFO - SVM fold 3 accuracy: 0.3667
+2025-04-22 15:44:48,024 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_SVM.png
+2025-04-22 15:44:49,389 - data_mining.categorization_model - INFO - SVM fold 4 accuracy: 0.4045
+2025-04-22 15:44:49,989 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_SVM.png
+2025-04-22 15:44:51,338 - data_mining.categorization_model - INFO - SVM fold 5 accuracy: 0.4157
+2025-04-22 15:44:52,377 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_SVM.png
+2025-04-22 15:44:57,724 - data_mining.categorization_model - INFO - XGBoost fold 1 accuracy: 0.5222
+2025-04-22 15:44:58,316 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_XGBoost.png
+2025-04-22 15:45:04,054 - data_mining.categorization_model - INFO - XGBoost fold 2 accuracy: 0.4889
+2025-04-22 15:45:04,723 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_XGBoost.png
+2025-04-22 15:45:11,410 - data_mining.categorization_model - INFO - XGBoost fold 3 accuracy: 0.5222
+2025-04-22 15:45:12,119 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_XGBoost.png
+2025-04-22 15:45:25,618 - data_mining.categorization_model - INFO - XGBoost fold 4 accuracy: 0.4382
+2025-04-22 15:45:26,375 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_XGBoost.png
+2025-04-22 15:45:33,328 - data_mining.categorization_model - INFO - XGBoost fold 5 accuracy: 0.4270
+2025-04-22 15:45:33,921 - data_mining.categorization_model - INFO - ✔ Saved confusion matrix: reports/confusion_matrix_XGBoost.png
+2025-04-22 15:45:33,922 - data_mining.categorization_model - INFO - Best model: RandomForestClassifier with accuracy 0.5444
+2025-04-22 15:45:33,922 - __main__ - INFO - ✔ Best model: RandomForestClassifier
+2025-04-22 15:45:34,050 - __main__ - INFO - ✔ Saved best model and label encoder
+2025-04-22 15:45:34,104 - __main__ - INFO - ✔ Saved complexity_vs_accuracy.csv
+2025-04-22 15:45:34,342 - data_analysis.validation - INFO - ✔ Sample validation completed: /home/thay/TCC/data_analysis/reports/sample_validation_report.txt
+2025-04-22 15:45:34,365 - data_analysis.statistical_analysis - INFO - ▶ Starting statistical analysis and plot generation
+2025-04-22 15:45:34,375 - data_analysis.statistical_analysis - INFO - ✔ Saved correlation CSV: /home/thay/TCC/reports/correlation_matrix.csv
+2025-04-22 15:45:35,192 - data_analysis.statistical_analysis - INFO - ✔ Saved heatmap PNG: /home/thay/TCC/reports/correlation_matrix.png
+2025-04-22 15:45:36,114 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/avg_sentence_length_vs_accuracy.png
+2025-04-22 15:45:37,169 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/lexical_density_vs_accuracy.png
+2025-04-22 15:45:38,245 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/flesch_index_vs_accuracy.png
+2025-04-22 15:45:39,152 - data_analysis.statistical_analysis - INFO - ✔ Saved scatter PNG: /home/thay/TCC/reports/syntactic_depth_vs_accuracy.png
+2025-04-22 15:45:39,160 - data_analysis.statistical_analysis - INFO - ✔ Saved combined data CSV: /home/thay/TCC/reports/complexity_vs_accuracy_data.csv
+2025-04-22 15:45:39,160 - data_analysis.statistical_analysis - INFO - ✔ Statistical analysis COMPLETED.
+2025-04-22 15:45:39,161 - data_analysis.longitudinal_analysis - INFO - ▶ Starting longitudinal analysis
+2025-04-22 15:45:39,998 - data_analysis.longitudinal_analysis - INFO - ✔ Saved longitudinal trend PNG: /home/thay/TCC/reports/longitudinal_trends.png
+2025-04-22 15:45:40,001 - data_analysis.longitudinal_analysis - INFO - ✔ Saved longitudinal trend data CSV: /home/thay/TCC/reports/longitudinal_trends_data.csv
+2025-04-22 15:45:40,002 - data_analysis.longitudinal_analysis - INFO - ✔ Longitudinal analysis COMPLETED.
