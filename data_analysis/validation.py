@@ -9,25 +9,27 @@ def validate_sample(data_path, sample_size=0.1):
     try:
         with open(data_path, 'r', encoding='utf-8') as f:
             resolutions = json.load(f)
-        
-        sample = random.sample(resolutions, int(len(resolutions) * sample_size))
-        
-        with open('reports/sample_validation_report.txt', 'w') as f:
-            for i, resolution in enumerate(sample):
+
+        total = len(resolutions)
+        n = max(1, int(total * sample_size)) if total > 0 else 0
+        if n == 0:
+            logger.error("No resolutions found.")
+            return
+
+        sample = random.sample(resolutions, n)
+        Path('reports').mkdir(exist_ok=True)
+        with open('reports/sample_validation_report.txt', 'w', encoding='utf-8') as f:
+            for i, res in enumerate(sample, start=1):
                 report = (
-                    f"Sample {i+1}:\n"
-                    f"Title: {resolution['title']}\n"
-                    f"Content: {resolution['content'][:200]}...\n"
-                    f"URL: {resolution['url']}\n"
-                    "-" * 40 + "\n"
+                    f"Sample {i}:\n"
+                    f"Title: {res.get('title', 'N/A')}\n"
+                    f"Content: {res.get('content', '')[:200]}...\n"
+                    f"URL: {res.get('url', 'N/A')}\n"
+                    + "-"*40 + "\n"
                 )
                 print(report)
                 f.write(report)
 
-        logger.info("Sample validation completed successfully.")
+        logger.info("Sample validation completed.")
     except Exception as e:
-        logger.error(f"Error during sample validation: {e}")
-
-if __name__ == "__main__":
-    data_path = Path(__file__).resolve().parent.parent / 'data/raw/resolutions_data.json'
-    validate_sample(data_path) 
+        logger.error(f"Error in validate_sample: {e}")
