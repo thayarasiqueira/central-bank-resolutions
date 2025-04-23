@@ -32,7 +32,6 @@ def validate_sample(data_path: Union[str, Path], sample_size: float = 0.1) -> No
                     f"URL: {res.get('url', 'N/A')}\n"
                     + "-" * 40 + "\n"
                 )
-                print(report)
                 f.write(report)
 
         logger.info("✔ Sample validation completed: %s", report_path)
