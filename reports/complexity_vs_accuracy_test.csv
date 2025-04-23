@@ -1,4 +1,4 @@
-avg_sentence_length,lexical_density,flesch_index,syntactic_depth,accuracy
+avg_sentence_length,lexical_density,flesch_index,syntactic_depth,per_instance_accuracy
 289.0,0.52,-273.71,28.9,0
 147.0,0.36,-107.55,16.33,1
 12476.0,0.1,-12664.95,47.98,1

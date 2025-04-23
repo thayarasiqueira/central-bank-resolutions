@@ -1,337 +1,57 @@
 Sample 1:
-Title: Resolução BCB n° 94 de 6/5/2021 (REVOGADO )
+Title: Resolução BCB n° 252 de 24/10/2022 (REVOGADO )
 Content: 
 
 
 
-RESOLUÇÃO BCB Nº 94, DE 6 DE MAIO DE 2021
-Documento normativo revogado, a partir de 2/5/2023, pela Resolução BCB nº 304, de 20/3/2023.
-Altera o Regulamento anexo à Circular nº 3.743, de 8 de janei...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=94
+RESOLUÇÃO BCB Nº 252, DE 24 DE OUTUBRO DE 2022
+Documento normativo revogado, a partir de 2/5/2024, pela Resolução BCB nº 375, de 3/4/2024.
+Define o quadro demonstrativo de Cargos Comissionados Exe...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=252
 ----------------------------------------
 Sample 2:
-Title: Resolução BCB n° 240 de 1/9/2022
+Title: Resolução BCB n° 293 de 15/2/2023
 Content: 
 
 
 
-RESOLUÇÃO BCB Nº 240, DE 1º DE SETEMBRO DE 2022
-Altera a Resolução BCB nº 229, de 12 de maio de 2022, que estabelece os procedimentos para o cálculo da parcela dos ativos ponderados pelo risco (RW...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=240
+RESOLUÇÃO BCB Nº 293, DE 15 DE FEVEREIRO DE 2023
+Altera o Regulamento anexo à Resolução BCB nº 1, de 12 de agosto de 2020, que disciplina o funcionamento do arranjo de pagamentos Pix, para definir...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=293
 ----------------------------------------
 Sample 3:
-Title: Resolução BCB n° 339 de 24/8/2023
+Title: Resolução BCB n° 260 de 22/11/2022
 Content: 
 
 
-RESOLUÇÃO BCB Nº 339, DE 24 DE AGOSTO DE 2023
-Dispõe sobre a atividade de escrituração de duplicata escritural, sobre o sistema eletrônico de escrituração gerido por entidade autorizada a exercer e...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=339
+
+RESOLUÇÃO BCB Nº 260, DE 22 DE NOVEMBRO DE 2022
+Dispõe sobre os sistemas de controles internos das administradoras de consórcio e das instituições de pagamento autorizadas a funcionar pelo Banco C...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=260
 ----------------------------------------
 Sample 4:
-Title: Resolução BCB n° 36 de 4/11/2020
-Content: 
-
-
-
-
-
-RESOLUÇÃO BCB Nº 36, DE 4 DE NOVEMBRO DE 2020
-Altera a Circular nº 3.953, de 10 de julho de 2019, que institui a identificação padronizada de operações de crédito na remessa de informações ao Si...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=36
+Title: Resolução BCB n° 76 de 23/2/2021
+Content: RESOLUÇÃO BCB Nº 76, DE 23 DE FEVEREIRO DE 2021
+Dispõe sobre os instrumentos de atuação do Banco Central do Brasil no mercado de câmbio brasileiro para fins de implementação da política cambial.
+A Dir...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=76
 ----------------------------------------
 Sample 5:
-Title: Resolução BCB n° 393 de 13/6/2024
-Content: RESOLUÇÃO BCB Nº 393, DE 13 DE JUNHO DE 2024
-Institui o novo Programa de Gestão e Desempenho das atividades desenvolvidas pelos servidores das carreiras do Banco Central do Brasil.
-O Comitê de Adminis...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=393
+Title: Resolução BCB n° 364 de 19/12/2023
+Content: 
+RESOLUÇÃO BCB Nº 364, DE 19 DE DEZEMBRO DE 2023
+Disciplina as contratações relativas à gestão, direta e indireta, das reservas internacionais do País, inclusive as de serviços conexos ou acessórios a...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=364
 ----------------------------------------
 Sample 6:
-Title: Resolução BCB n° 222 de 30/3/2022
-Content: RESOLUÇÃO BCB Nº 222, DE 30 DE MARÇO DE 2022
-Dispõe sobre o tratamento de registro de reclamações no âmbito do Sistema de Registro de Demandas do Cidadão (RDR).
-A Diretoria Colegiada do Banco Central ...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=222
+Title: Resolução BCB n° 411 de 19/9/2024
+Content: RESOLUÇÃO BCB Nº 411, DE 19 DE SETEMBRO DE 2024
+Dispõe sobre as condições para depósito centralizado de Letra de Crédito do Desenvolvimento – LCD em entidade autorizada pelo Banco Central do Brasil.
+
+...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=411
 ----------------------------------------
 Sample 7:
-Title: Resolução BCB n° 225 de 13/4/2022
-Content: 
-
-
-
-RESOLUÇÃO BCB Nº 225, DE 13 DE ABRIL DE 2022
-Dispõe sobre a autorização para o exercício da função de agente fiduciário em emissão de Letra Imobiliária Garantida (LIG), sobre os procedimentos e as...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=225
-----------------------------------------
-Sample 8:
-Title: Resolução BCB n° 374 de 27/3/2024
-Content: RESOLUÇÃO BCB Nº 374, DE 27 DE MARÇO DE 2024
-Dispõe sobre as Linhas Financeiras de Liquidez (LFL) do Banco Central do Brasil e aprova os regulamentos que disciplinam o seu funcionamento.
-A Diretoria C...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=374
-----------------------------------------
-Sample 9:
-Title: Resolução BCB n° 372 de 26/3/2024
-Content: RESOLUÇÃO BCB Nº 372, DE 26 DE MARÇO DE 2024
-Altera a Resolução BCB nº 339, de 24 de agosto de 2023, para estabelecer quórum para tomada de decisão na elaboração e alteração da convenção para exercíci...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=372
-----------------------------------------
-Sample 10:
-Title: Resolução BCB n° 1 de 12/8/2020
-Content: 
-
-
-RESOLUÇÃO BCB Nº 1, DE 12 DE AGOSTO DE 2020
-Institui o arranjo de pagamentos Pix e aprova o seu Regulamento.
-A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 6 de agosto de ...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=1
-----------------------------------------
-Sample 11:
-Title: Resolução BCB n° 282 de 31/12/2022
-Content: RESOLUÇÃO BCB Nº 282, DE 31 DE DEZEMBRO DE 2022
-Altera a Circular
-n
-n
-º 3.978, de 23 de janeiro de 2020
-, que dispõe sobre a política, os procedimentos e os controles internos a serem adotados pelas i...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=282
-----------------------------------------
-Sample 12:
-Title: Resolução BCB n° 275 de 27/12/2022
-Content: 
-
-
-
-RESOLUÇÃO BCB Nº 275, DE 27 DE DEZEMBRO DE 2022
-Posterga a entrada em vigor da Resolução BCB nº 239, de 1º de setembro de 2022, que por sua vez altera a Circular nº 3.809, de 25 de agosto de 2016,...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=275
-----------------------------------------
-Sample 13:
-Title: Resolução BCB n° 99 de 2/6/2021
-Content: 
-RESOLUÇÃO BCB Nº 99, DE 2 DE JUNHO DE 2021
-Altera a Circular nº 3.590, de 26 de abril de 2012, que dispõe sobre a análise de atos de concentração no Sistema Financeiro Nacional pelo Banco Central do ...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=99
-----------------------------------------
-Sample 14:
-Title: Resolução BCB n° 235 de 27/7/2022
-Content: 
-
-
-
-RESOLUÇÃO BCB Nº 235, DE 27 DE JULHO DE 2022
-Altera o Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022, que regulamenta o funcionamento do Sistema de Pagamentos Instantâneos (SPI) e...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=235
-----------------------------------------
-Sample 15:
-Title: Resolução BCB n° 388 de 5/6/2024
-Content: RESOLUÇÃO BCB Nº 388, DE 5 DE JUNHO DE 2024
-Institui o novo Regulamento do Comitê Economia Sustentável – Ecos do Banco Central do Brasil.
-O Comitê de Governança, Riscos e Controles – GRC do Banco Cent...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=388
-----------------------------------------
-Sample 16:
-Title: Resolução BCB n° 102 de 7/6/2021
-Content: RESOLUÇÃO BCB Nº 102, DE 7 DE JUNHO DE 2021
-Dispõe sobre a elaboração e a remessa de informações relativas aos instrumentos financeiros objeto de garantia ao Fundo Garantidor de Créditos (FGC) e sobre...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=102
-----------------------------------------
-Sample 17:
-Title: Resolução BCB n° 50 de 16/12/2020
-Content: 
-
-
-
-
-RESOLUÇÃO BCB Nº 50, DE 16 DE DEZEMBRO DE 2020
-Dispõe sobre os requisitos para instauração e execução pelo Banco Central do Brasil do Ambiente Controlado de Testes para Inovações Financeiras e de...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=50
-----------------------------------------
-Sample 18:
-Title: Resolução BCB n° 389 de 5/6/2024
-Content: RESOLUÇÃO BCB Nº 389, DE 5 DE JUNHO DE 2024
-Institui o novo Regulamento do Comitê de Responsabilidade Social, Ambiental e Climática Organizacional – CRSO do Banco Central do Brasil.
-Institui o novo Re...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=389
-----------------------------------------
-Sample 19:
-Title: Resolução BCB n° 333 de 10/8/2023
-Content: RESOLUÇÃO BCB Nº 333, DE 10 DE AGOSTO DE 2023
-Divulga a Política de Controles Internos da Gestão do Banco Central do Brasil.
-O Comitê de Governança, Riscos e Controles do Banco Central do Brasil (GRC)...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=333
-----------------------------------------
-Sample 20:
-Title: Resolução BCB n° 38 de 11/11/2020
-Content: RESOLUÇÃO BCB Nº 38, DE 11 DE NOVEMBRO DE 2020
-
-Consolida a remessa de informações sobre cotistas de fundos de investimento.
-A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 11...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=38
-----------------------------------------
-Sample 21:
-Title: Resolução BCB n° 278 de 31/12/2022
-Content: RESOLUÇÃO BCB Nº 278, DE 31 DE DEZEMBRO DE 2022
-Regulamenta a Lei nº 14.286, de 29 de dezembro de 2021, em relação ao capital estrangeiro no País, nas operações de crédito externo e de investimento es...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=278
-----------------------------------------
-Sample 22:
-Title: Resolução BCB n° 121 de 29/7/2021 (REVOGADO )
-Content: 
-RESOLUÇÃO BCB Nº 121, DE 29 DE JULHO DE 2021
-Documento normativo revogado, a partir de 1º/7/2023, pela Resolução BCB nº 230, de 27/7/2022.
-
-Altera a Circular nº 3.644, de 4 de março de 2013, relativa...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=121
-----------------------------------------
-Sample 23:
-Title: Resolução BCB n° 259 de 21/11/2022 (REVOGADO )
-Content: 
-
-RESOLUÇÃO BCB Nº 259, DE 21 DE NOVEMBRO DE 2022
-Documento normativo revogado pela Resolução BCB nº 393, de 12/6/2024.
-Altera a Resolução BCB nº 67, de 3 de fevereiro de 2021, que regulamenta o Progr...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=259
-----------------------------------------
-Sample 24:
-Title: Resolução BCB n° 184 de 15/2/2022
-Content: 
-
-
-
-RESOLUÇÃO BCB Nº 184, DE 15 DE FEVEREIRO DE 2022
-Altera a Circular nº 3.809, de 25 de agosto de 2016.
-A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 15 de fevereiro de 20...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=184
-----------------------------------------
-Sample 25:
-Title: Resolução BCB n° 154 de 14/10/2021
-Content: 
-
-
-RESOLUÇÃO BCB Nº 154, DE 14 DE OUTUBRO DE 2021
-Altera a Resolução BCB nº 47, de 24 de novembro de 2020, e disciplina o retorno gradual das atividades presenciais para os servidores das carreiras do...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=154
-----------------------------------------
-Sample 26:
-Title: Resolução BCB n° 256 de 1/11/2022
-Content: RESOLUÇÃO BCB Nº 256, DE 1º DE NOVEMBRO DE 2022
-Regulamenta a Transferência Eletrônica Disponível (TED).
-                        A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada e...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=256
-----------------------------------------
-Sample 27:
-Title: Resolução BCB n° 297 de 2/3/2023
-Content: 
-
-
-RESOLUÇÃO BCB Nº 297, DE 2 DE MARÇO DE 2023
-Dispõe sobre a transferência de fundos por meio de Documento de Crédito (DOC) e de Transferência Especial de Crédito (TEC).
-A Diretoria Colegiada do Banc...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=297
-----------------------------------------
-Sample 28:
-Title: Resolução BCB n° 74 de 23/2/2021
-Content: 
-
-
-
-RESOLUÇÃO BCB Nº 74, DE 23 DE FEVEREIRO DE 2021
-Estabelece procedimentos para a remessa de informações relativas a ativos, passivos e fluxos financeiros do setor público pelas instituições finance...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=74
-----------------------------------------
-Sample 29:
-Title: Resolução BCB n° 380 de 15/5/2024 (REVOGADO )
-Content: RESOLUÇÃO BCB Nº 380, DE 15 DE MAIO DE 2024
-Documento normativo revogado pela Resolução BCB nº 428, de 7/11/2024.
-Estabelece, temporariamente, as datas-limites para remessa de documentos contábeis ao ...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=380
-----------------------------------------
-Sample 30:
-Title: Resolução BCB n° 104 de 8/6/2021 (REVOGADO )
-Content: 
-
-
-
-RESOLUÇÃO BCB Nº 104, DE 8 DE JUNHO DE 2021
-RESOLUÇÃO
-BCB Nº 104, DE 8 DE JUNHO DE 2021
-Documento normativo revogado, a partir de 1º/4/2022, pela Resolução BCB nº 195, de 3/3/2022.
-Altera o Regula...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=104
-----------------------------------------
-Sample 31:
-Title: Resolução BCB n° 403 de 22/7/2024
-Content: RESOLUÇÃO BCB Nº 403, DE 22 DE JULHO DE 2024
-Altera a Resolução BCB nº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e aprova o seu regulamento, e o regulamento anexo à Resoluçã...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=403
-----------------------------------------
-Sample 32:
-Title: Resolução BCB n° 63 de 21/1/2021 (REVOGADO )
-Content: 
-
-
-
-RESOLUÇÃO BCB Nº 63, DE 21 DE JANEIRO DE 2021
-Documento normativo revogado, a partir de 1º/12/2022, pela Resolução BCB nº 242, de 6/9/2022.
-Estabelece o procedimento de consulta ao Banco Central d...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=63
-----------------------------------------
-Sample 33:
-Title: Resolução BCB n° 330 de 27/6/2023
-Content: 
-
-RESOLUÇÃO BCB Nº 330, DE 27 DE JUNHO DE 2023
-Altera a Circular nº 3.748, de 27 de fevereiro de 2015, que dispõe sobre a metodologia para apuração da Razão de Alavancagem (RA), remessa ao Banco Centr...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=330
-----------------------------------------
-Sample 34:
-Title: Resolução BCB n° 205 de 22/3/2022
-Content: RESOLUÇÃO BCB Nº 205, DE 22 DE MARÇO DE 2022
-Altera a Resolução BCB nº 81, de 25 de março de 2021, que disciplina os processos de autorização relacionados ao funcionamento das instituições de pagament...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=205
-----------------------------------------
-Sample 35:
-Title: Resolução BCB n° 381 de 15/5/2024
-Content: RESOLUÇÃO BCB Nº 381, DE 15 DE MAIO DE 2024
-Dispõe sobre medidas temporárias e em caráter de excepcionalidade aplicáveis ao funcionamento de grupos de consórcio.
-A Diretoria Colegiada do Banco Central...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=381
-----------------------------------------
-Sample 36:
-Title: Resolução BCB n° 391 de 12/6/2024
-Content: RESOLUÇÃO BCB Nº 391, DE 12 DE JUNHO DE 2024
-Altera a Resolução BCB nº 178, de 19 de janeiro de 2022, que dispõe sobre os critérios contábeis aplicáveis às operações de arrendamento mercantil contrata...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=391
-----------------------------------------
-Sample 37:
-Title: Resolução BCB n° 323 de 14/6/2023
-Content: 
-
-
-
-
-RESOLUÇÃO BCB Nº 323, DE 14 DE JUNHO DE 2023
-Altera a Resolução BCB nº 229, de 12 de maio de 2022, que estabelece os procedimentos para o cálculo da parcela dos ativos ponderados pelo risco (RWA)...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=323
-----------------------------------------
-Sample 38:
-Title: Resolução BCB n° 33 de 29/10/2020
-Content: RESOLUÇÃO BCB Nº 33, DE 29 DE OUTUBRO DE 2020
-Dispõe sobre os critérios
-para mensuração e reconhecimento contábeis de investimentos em coligadas, controladas e controladas em conjunto mantidos
-pelas a...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=33
-----------------------------------------
-Sample 39:
-Title: Resolução BCB n° 321 de 2/6/2023
-Content: 
-RESOLUÇÃO BCB Nº 321, DE 2 DE JUNHO DE 2023
-Altera a Resolução BCB nº 264, de 25 de novembro de 2022, que dispõe sobre o registro de recebíveis decorrentes de transações no âmbito de arranjo de pagam...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=321
-----------------------------------------
-Sample 40:
 Title: Resolução BCB n° 204 de 22/3/2022
 Content: 
 
@@ -342,33 +62,308 @@ O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.g
 RESOLUÇÃO BCB Nº 2...
 URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=204
 ----------------------------------------
-Sample 41:
-Title: Resolução BCB n° 231 de 27/7/2022 (REVOGADO )
-Content: RESOLUÇÃO BCB Nº 231, DE 27 DE JULHO DE 2022
-Documento normativo revogado pela Resolução BCB nº 277, de 31/12/2022.
-Documento normativo revogado pela Resolução BCB nº 277, de 31/12/2022.
-Documento nor...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=231
+Sample 8:
+Title: Resolução BCB n° 436 de 28/11/2024
+Content: RESOLUÇÃO BCB Nº 436, DE 28 DE NOVEMBRO DE 2024
+Classifica como Tipo 1, Tipo 2 ou Tipo 3 as instituições singulares autorizadas a funcionar pelo Banco Central do Brasil e os conglomerados prudenciais ...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=436
 ----------------------------------------
-Sample 42:
-Title: Resolução BCB n° 7 de 12/8/2020
-Content: RESOLUÇÃO BCB Nº 7, DE 12 DE AGOSTO DE 2020
-Dispõe sobre os critérios e os procedimentos para reconhecimento contábil e mensuração dos componentes do ativo intangível e veda o registro de ativo diferi...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=7
+Sample 9:
+Title: Resolução BCB n° 350 de 8/11/2023
+Content: RESOLUÇÃO BCB Nº 350, DE 8 DE NOVEMBRO DE 2023
+Dispõe sobre a atuação do Banco Central do Brasil no mercado de câmbio.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 8 de nov...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=350
 ----------------------------------------
-Sample 43:
-Title: Resolução BCB n° 13 de 9/9/2020
-Content: RESOLUÇÃO BCB Nº 13, DE 9 DE SETEMBRO DE 2020
-Consolida os critérios gerais de contabilidade aplicáveis às instituições de pagamento e às administradoras de consórcio em regime de liquidação extrajudi...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=13
+Sample 10:
+Title: Resolução BCB n° 29 de 26/10/2020
+Content: 
+
+
+RESOLUÇÃO BCB Nº 29, DE 26 DE OUTUBRO DE 2020
+Estabelece as diretrizes para funcionamento do Ambiente Controlado de Testes para Inovações Financeiras e de Pagamento (
+Sandbox
+Regulatório) e as cond...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=29
 ----------------------------------------
-Sample 44:
-Title: Resolução BCB n° 35 de 29/10/2020
+Sample 11:
+Title: Resolução BCB n° 32 de 29/10/2020
 Content: 
 
 
 
- RESOLUÇÃO BCB Nº 35, DE 29 DE OUTUBRO DE 2020
-Altera a Circular nº 3.952, de 27 de junho de 2019, que dispõe sobre o registro de recebíveis decorrentes de transações no âmbito de arranjo de pagam...
-URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=35
+RESOLUÇÃO BCB Nº 32, DE 29 DE OUTUBRO DE 2020
+Estabelece os requisitos técnicos e procedimentos operacionais para a implementação no País do Sistema Financeiro Aberto (Open Banking).
+Estabelece os...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=32
+----------------------------------------
+Sample 12:
+Title: Resolução BCB n° 108 de 24/6/2021
+Content: 
+
+
+
+
+RESOLUÇÃO BCB Nº 108, DE 24 DE JUNHO DE 2021
+Dispõe sobre as regras e os procedimentos a serem observados para o controle e para a contagem de prazos máximos de decisão administrativa dos pedidos...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=108
+----------------------------------------
+Sample 13:
+Title: Resolução BCB n° 62 de 13/1/2021
+Content: 
+
+
+
+
+RESOLUÇÃO BCB Nº 62, DE 13 DE JANEIRO DE 2021
+Altera a Portaria nº 97.162, de 22 de fevereiro de 2018, que estabelece regras e critérios para a cessão e para o afastamento de servidores da Carrei...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=62
+----------------------------------------
+Sample 14:
+Title: Resolução BCB n° 84 de 31/3/2021
+Content: 
+
+
+
+RESOLUÇÃO BCB Nº 84, DE 31 DE MARÇO DE 2021
+Consolida os procedimentos para a remessa de informações relativas às exposições ao risco de mercado, ao risco de variação das taxas de juros em instrum...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=84
+----------------------------------------
+Sample 15:
+Title: Resolução BCB n° 127 de 11/8/2021
+Content: 
+
+
+RESOLUÇÃO BCB Nº 127, DE 11 DE AGOSTO DE 2021
+Dispõe sobre a apuração da base de cálculo e o recolhimento da contribuição ordinária das instituições associadas ao Fundo Garantidor do Cooperativismo...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=127
+----------------------------------------
+Sample 16:
+Title: Resolução BCB n° 126 de 5/8/2021
+Content: 
+
+
+RESOLUÇÃO BCB Nº 126, DE 5 DE AGOSTO DE 2021
+Altera e consolida o Regulamento do Comitê de Acordo Administrativo em Processo de Supervisão (Coaps).
+A Diretoria Colegiada do Banco Central do Brasil,...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=126
+----------------------------------------
+Sample 17:
+Title: Resolução BCB n° 196 de 9/3/2022
+Content: RESOLUÇÃO BCB Nº 196, DE 9 DE MARÇO DE 2022
+Consolida e estabelece novas condições para o cadastramento de operações no Sistema de Registro de Operações de Crédito com o Setor Público (Cadip).
+Consoli...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=196
+----------------------------------------
+Sample 18:
+Title: Resolução BCB n° 165 de 23/11/2021
+Content: RESOLUÇÃO BCB Nº 165, DE 23 DE NOVEMBRO DE 2021
+Dispõe sobre o Regimento Interno da Comissão de Ética do Banco Central do Brasil (CEBCB).
+A Diretoria Colegiada do Banco Central do Brasil, em sessão re...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=165
+----------------------------------------
+Sample 19:
+Title: Resolução BCB n° 301 de 16/3/2023
+Content: 
+RESOLUÇÃO BCB Nº 301, DE 16 DE MARÇO DE 2023
+Divulga novo regulamento dos grupos de trabalho encarregados de coordenar o acompanhamento do Financial Sector Assessment Program (FSAP).
+O Comitê de Gove...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=301
+----------------------------------------
+Sample 20:
+Title: Resolução BCB n° 186 de 15/2/2022
+Content: RESOLUÇÃO BCB Nº 186, DE 15 DE FEVEREIRO DE 2022
+Altera a Resolução BCB nº 111, de 6 de julho de 2021, que dispõe sobre os critérios para a classificação de instrumentos na carteira de negociação ou n...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=186
+----------------------------------------
+Sample 21:
+Title: Resolução BCB n° 195 de 3/3/2022
+Content: 
+
+
+
+RESOLUÇÃO BCB Nº 195, DE 3 DE MARÇO DE 2022
+Aprova o Regulamento do Sistema de Pagamentos Instantâneos (SPI) e da Conta Pagamentos Instantâneos (Conta PI).
+A Diretoria Colegiada do Banco Central d...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=195
+----------------------------------------
+Sample 22:
+Title: Resolução BCB n° 118 de 22/7/2021
+Content: RESOLUÇÃO BCB Nº 118, DE 22 DE JULHO DE 2021
+Altera a Resolução BCB nº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e aprova o seu Regulamento, e o Regulamento anexo à Resoluçã...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=118
+----------------------------------------
+Sample 23:
+Title: Resolução BCB n° 79 de 18/3/2021
+Content: 
+
+
+
+RESOLUÇÃO BCB Nº 79, DE 18 DE MARÇO DE 2021
+Altera o Regulamento anexo à Resolução BCB nº 1, de 12 de agosto de 2020, que disciplina o funcionamento do arranjo de pagamentos Pix.
+A Diretoria Coleg...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=79
+----------------------------------------
+Sample 24:
+Title: Resolução BCB n° 316 de 27/4/2023
+Content: RESOLUÇÃO BCB Nº 316, DE 27 DE ABRIL DE 2023
+Altera o Anexo II à Resolução BCB nº 108, de 24 de junho de 2021, que dispõe sobre os prazos específicos para as diferentes fases dos processos administrat...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=316
+----------------------------------------
+Sample 25:
+Title: Resolução BCB n° 80 de 25/3/2021
+Content: 
+
+
+
+RESOLUÇÃO BCB Nº 80, DE 25 DE MARÇO DE 2021
+Disciplina a constituição e o funcionamento das instituições de pagamento, estabelece os parâmetros para ingressar com pedidos de autorização de funcion...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=80
+----------------------------------------
+Sample 26:
+Title: Resolução BCB n° 153 de 7/10/2021
+Content: 
+
+
+
+RESOLUÇÃO BCB Nº 153, DE 7 DE OUTUBRO DE 2021
+Altera dispositivos do Regulamento anexo à Resolução BCB nº 105, 9 de junho de 2021, que disciplina o funcionamento do Sistema de Transferência de Res...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=153
+----------------------------------------
+Sample 27:
+Title: Resolução BCB n° 390 de 12/6/2024
+Content: RESOLUÇÃO BCB Nº 390, DE 12 DE JUNHO DE 2024
+Altera a Resolução BCB nº 92, de 6 de maio de 2021, que dispõe sobre a utilização do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasi...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=390
+----------------------------------------
+Sample 28:
+Title: Resolução BCB n° 221 de 30/3/2022
+Content: 
+
+
+
+
+RESOLUÇÃO BCB Nº 221, DE 30 DE MARÇO DE 2022
+Dispõe sobre a prestação de informações pelas cooperativas singulares de crédito a respeito de seus cooperados e dos municípios depositantes, incluind...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=221
+----------------------------------------
+Sample 29:
+Title: Resolução BCB n° 448 de 23/12/2024
+Content: RESOLUÇÃO BCB Nº 448, DE 23 DE DEZEMBRO DE 2024
+
+RESOLUÇÃO BCB Nº 448, DE 23 DE DEZEMBRO DE 2024
+Altera as Resoluções BCB ns. 198, 199 e 201, de 11 de março de 2022.
+
+Altera as Resoluções BCB ns. 198,...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=448
+----------------------------------------
+Sample 30:
+Title: Resolução BCB n° 189 de 23/2/2022
+Content: 
+
+
+RESOLUÇÃO BCB Nº 189, DE 23 DE FEVEREIRO DE 2022
+Define e consolida as regras do recolhimento compulsório sobre recursos à vista e incorpora regras do recolhimento compulsório sobre recursos de dep...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=189
+----------------------------------------
+Sample 31:
+Title: Resolução BCB n° 261 de 22/11/2022
+Content: 
+
+
+
+O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.
+O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.
+RESOLUÇÃO BCB Nº 2...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=261
+----------------------------------------
+Sample 32:
+Title: Resolução BCB n° 168 de 1/12/2021
+Content: RESOLUÇÃO BCB Nº 168, DE 1º DE DEZEMBRO DE 2021
+Dispõe sobre os critérios contábeis aplicáveis às instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil na elaboração dos docum...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=168
+----------------------------------------
+Sample 33:
+Title: Resolução BCB n° 373 de 26/3/2024
+Content: 
+
+RESOLUÇÃO BCB Nº 373, DE 26 DE MARÇO DE 2024
+Altera a Resolução BCB nº 264, de 25 de novembro de 2022, para estabelecer quórum para tomada de decisão na alteração da convenção entre entidades regist...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=373
+----------------------------------------
+Sample 34:
+Title: Resolução BCB n° 235 de 27/7/2022
+Content: 
+
+
+
+RESOLUÇÃO BCB Nº 235, DE 27 DE JULHO DE 2022
+Altera o Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022, que regulamenta o funcionamento do Sistema de Pagamentos Instantâneos (SPI) e...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=235
+----------------------------------------
+Sample 35:
+Title: Resolução BCB n° 30 de 29/10/2020
+Content: RESOLUÇÃO BCB Nº 30, DE 29 DE OUTUBRO DE 2020
+
+Altera a Resolução BCB nº 19, de 1º de outubro de 2020, e o Regulamento anexo à Resolução BCB nº 1, de 12 de agosto de 2020, que disciplina o funcionamen...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=30
+----------------------------------------
+Sample 36:
+Title: Resolução BCB n° 283 de 4/1/2023
+Content: RESOLUÇÃO BCB Nº 283, DE 4 DE JANEIRO DE 2023
+Dispõe sobre os procedimentos necessários à execução da transferência de recursos para a efetivação da portabilidade de operações de crédito e de arrendam...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=283
+----------------------------------------
+Sample 37:
+Title: Resolução BCB n° 412 de 19/9/2024
+Content: RESOLUÇÃO BCB Nº 412, DE 19 DE SETEMBRO DE 2024
+Altera o Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022, que regulamenta o funcionamento do Sistema de Pagamentos Instantâneos – SPI e ...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=412
+----------------------------------------
+Sample 38:
+Title: Resolução BCB n° 401 de 17/7/2024
+Content: RESOLUÇÃO BCB Nº 401, DE 17 DE JULHO DE 2024
+Altera a Resolução BCB nº 277, de 31 de dezembro de 2022, que regulamenta a Lei nº 14.286, de 29 de dezembro de 2021, para elevar limites de instituições p...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=401
+----------------------------------------
+Sample 39:
+Title: Resolução BCB n° 371 de 26/3/2024
+Content: RESOLUÇÃO BCB Nº 371, DE 26 DE MARÇO DE 2024
+Altera a Resolução BCB nº 308, de 28 de março de 2023, para estabelecer quórum para tomada de decisão na elaboração e alteração da convenção para exercício...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=371
+----------------------------------------
+Sample 40:
+Title: Resolução BCB n° 265 de 25/11/2022
+Content: RESOLUÇÃO BCB Nº 265, DE 25 DE NOVEMBRO DE 2022
+Dispõe sobre a estrutura de gerenciamento de riscos, a estrutura de gerenciamento de capital e a política de divulgação de informações de conglomerado p...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=265
+----------------------------------------
+Sample 41:
+Title: Resolução BCB n° 86 de 14/4/2021
+Content: 
+
+
+
+RESOLUÇÃO BCB Nº 86, DE 14 DE ABRIL DE 2021
+Altera a Resolução BCB nº 32, de 29 de outubro de 2020, que estabelece os requisitos técnicos e procedimentos operacionais para a implementação no País ...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=86
+----------------------------------------
+Sample 42:
+Title: Resolução BCB n° 101 de 2/6/2021
+Content: RESOLUÇÃO BCB Nº 101, DE 2 DE JUNHO DE 2021
+Altera a Resolução BCB nº 74, de 23 de fevereiro de 2021, que estabelece procedimentos para a remessa de informações relativas a ativos, passivos e fluxos f...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=101
+----------------------------------------
+Sample 43:
+Title: Resolução BCB n° 311 de 12/4/2023
+Content: RESOLUÇÃO BCB Nº 311, DE 12 DE ABRIL DE 2023
+Altera a Resolução BCB nº 146, de 28 de setembro de 2021, que dispõe sobre os critérios gerais para elaboração e remessa de documentos contábeis ao Banco C...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=311
+----------------------------------------
+Sample 44:
+Title: Resolução BCB n° 389 de 5/6/2024
+Content: RESOLUÇÃO BCB Nº 389, DE 5 DE JUNHO DE 2024
+Institui o novo Regulamento do Comitê de Responsabilidade Social, Ambiental e Climática Organizacional – CRSO do Banco Central do Brasil.
+Institui o novo Re...
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=389
 ----------------------------------------
