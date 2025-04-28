@@ -1,134 +1,106 @@
-# Central Bank Resolutions Classification
+**Central Bank Resolutions Classification**
 
-This repository provides a complete pipeline to collect, validate, analyze and automatically classify resolutions from the Central Bank of Brazil (BCB), with a quantitative study of how linguistic complexity impacts classification quality.
+This project implements an end-to-end pipeline for analyzing linguistic complexity and performing automatic classification of Central Bank of Brazil resolutions. It includes data collection, complexity metric extraction, model training, and evaluation.
 
 ---
 
-## 📂 Project Structure
-
+## 📂 Repository Structure
 ```
-.
-├── data_collection
-│   ├── main.py                  # Orchestrates scraping and content validation
-│   ├── resolution_collector.py  # Selenium scraper for BCB resolutions
-│   └── content_validator.py     # Basic content checks on .txt files
+├── data_collection/          # Scripts for scraping and extracting resolution texts
+│   ├── main.py               # Entry point: fetches JSON data from BCB site
+│   └── content_validator.py  # Validates completeness and readability of JSON entries
 │
-├── data
-│   ├── raw                      # Raw JSON of collected resolutions
-│   └── processed                # (future) processed data
+├── data_analysis/            # Complexity metric computation
+│   └── complexity_analysis.py # Computes lexical density, sentence length, syntactic features
 │
-├── data_mining
-│   ├── preprocessing.py         # Text cleaning, tokenization, lemmatization
-│   ├── categorization_model.py  # Baseline: TF-IDF + DistilBERT + ensemble
-│   └── bert_finetuning.py       # Hybrid DistilBERT fine-tuning with TF-IDF
+├── models/                   # Model training and evaluation
+│   └── categorization_model.py# Implements preprocessing, SMOTE, cross‑validation, classifiers
 │
-├── data_analysis
-│   ├── complexity_analysis.py   # Compute linguistic complexity metrics
-│   ├── statistical_analysis.py  # Correlations & scatter plots
-│   ├── longitudinal_analysis.py # Document length trends over time
-│   └── validation.py            # Sample validation reporting
+├── outputs/                  # Generated artifacts (JSON, figures, logs)
 │
-├── reports                      # Generated charts (.png, .html) & CSVs
-├── models                       # Trained models (pickles / saved-model)
-├── logs                         # Log files
-├── tests                        # pytest unit tests
-├── main.py                      # Orchestrates mining & analysis
-├── requirements.txt             # Python dependencies
-└── README.md                    # This file
+├── requirements.txt          # Python dependencies
+└── README.md                 # This file
 ```
 
 ---
 
-## ⚙️ Installation
+## 🔧 Installation
 
-1. Clone the repository and enter its folder:  
+1. Clone the repo:
    ```bash
    git clone https://github.com/thayarasiqueira/central-bank-resolutions.git
    cd central-bank-resolutions
    ```
-
-2. Create and activate a virtual environment (Linux/macOS):  
+2. Create a virtual environment and install:
    ```bash
    python3 -m venv venv
    source venv/bin/activate
-   ```
-
-3. Install Python dependencies:  
-   ```bash
-   pip install --upgrade pip
    pip install -r requirements.txt
    ```
 
-4. Download spaCy’s Portuguese model:  
-   ```bash
-   python -m spacy download pt_core_news_sm
-   ```
+---
+
+## 📝 Data Collection
+
+- **Source**: Resolutions published on the Central Bank of Brazil website (2020–2024).
+- **Script**: `data_collection/main.py`
+  - Fetches resolution metadata and content into `outputs/resolutions_data.json`.
+  - Runs `content_validator.validate_resolution_content` on each JSON entry to exclude incomplete or too-short texts.
+
+### Validation criteria
+- Exclude entries with missing `text` or fewer than 100 characters.
+- Exclude revoked resolutions or non‑text attachments via JSON flags.
+- A manual spot check is implemented within the validator for 10% of items.
 
 ---
 
-## 🚀 How to run
+## 📊 Complexity Metrics
 
-### 1. Data collection  
-Scrape the BCB website and validate raw .txt files:  
-```bash
-python data_collection/main.py
-```
-- Output: `data/raw/resolutions_data.json` and `reports/sample_validation_report.txt`
+Metrics are computed in `data_analysis/complexity_analysis.py`:
 
-### 2. Mining (feature extraction & training)  
-Extract features, train model and produce hold-out accuracy CSV:  
-```bash
-python main.py mining
-```
-- Outputs in `reports/`:  
-  - `complexity_vs_accuracy_test.csv`  
-  - `confusion_matrix_holdout.png`  
+| Metric               | Implementation detail                                 |
+|----------------------|-------------------------------------------------------|
+| Sentence length      | Average number of tokens per sentence                 |
+| Lexical density      | **Type–token ratio**: `unique_words / total_words`    |
+| Flesch readability   | Adapted Flesch score for Portuguese via `textstat`     |
+| Syntactic size       | Average subtree size from spaCy dependency parse      |
 
-### 3. Analysis (charts & statistics)  
-Generate correlation matrix, scatter plots and trend chart:  
+Run:
 ```bash
-python main.py analysis
-```
-- Outputs in `reports/`:  
-  - `correlation_matrix.html`  
-  - `*_vs_accuracy.html`  
-  - `longitudinal_trends.png`  
-
-### 4. Full pipeline  
-Run both mining and analysis in sequence:  
-```bash
-python main.py everything
+python data_analysis/complexity_analysis.py --input outputs/resolutions_data.json --output outputs/complexity_metrics.csv
 ```
 
 ---
 
-## 📊 Baseline Results
+## 🤖 Modeling & Evaluation
 
-- **Hold-out accuracy** (light ensemble): ~43 %  
-- **Correlations** between linguistic metrics and accuracy:  
-  - Lexical density: +0.13  
-  - Avg. sentence length: +0.06  
-  - Flesch index: –0.06  
-  - Syntactic depth: +0.04  
+Implemented in `models/categorization_model.py`:
 
-These baseline findings demonstrate the moderate but measurable impact of textual complexity on classification performance.
+1. **Preprocessing**: text normalization, Portuguese tokenization, lemmatization.
+2. **Resampling**: SMOTE on the training folds.
+3. **Cross‑validation**: stratified 3‑fold (matches code) for parameter tuning.
+4. **Classifiers**:
+   - Random Forest
+   - Support Vector Machine (SVM)
+   - LightGBM (in lieu of XGBoost)
+   - Ensemble voting classifier
+5. **Evaluation**:
+   - Hold‑out test (20% split)
+   - Confusion matrix
+   - Pearson correlations between complexity metrics and per‑instance accuracy
+
+To train and evaluate:
+```bash
+python models/categorization_model.py --metrics outputs/complexity_metrics.csv --labels outputs/labels.csv --save-model outputs/model.pkl
+```
+
+---
+
+## 📈 Results
+- Results figures (scatter‑plots, correlation matrices) are saved under `outputs/figures/`.
+- Confusion matrices for hold‑out and ensemble are logged to `outputs/logs/`.
 
 ---
 
-## 🔧 Best Practices & Extensions
-
-- Regenerate `requirements.txt` via `pip freeze > requirements.txt` for exact versions.  
-- Use `--model-type [classic|bert]` in `main.py` to compare pipelines.  
-- Add CI (GitHub Actions) to run `pytest` and lint on each push.  
-- Future work:  
-  - Fine-tune Legal-BERT or BERTimbau for Portuguese legal text.  
-  - Implement stacking and probability calibration.  
-  - Incorporate named-entity features (dates, numbers, organizations).
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
+## ⚙️ Configuration
+- All hyperparameters and file paths can be adjusted via command‑line flags in each script.
